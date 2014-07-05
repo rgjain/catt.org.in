@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('fontkit/opensans-regular-webfont.eot');
+    src: url('fontkit/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fontkit/opensans-regular-webfont.woff') format('woff'),
+         url('fontkit/opensans-regular-webfont.ttf') format('truetype'),
+         url('fontkit/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	font-family: "open_sansregular";
+    font-size: 13px;
+}
+img {
+	border: none;
+}
