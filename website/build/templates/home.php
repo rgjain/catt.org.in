@@ -1,12 +1,12 @@
 		<div id="agrid" class="w1000">
-			<a class="section" href="./p=aboutus">
+			<a class="section" href="./?p=aboutus">
 				<img src="assets/images/thumbs/thumb-1.png">
 				<div class="detail">
 					<h2>CATT</h1>
 					<p>Conservation Awareness Team Trust</p>
 				</div>
 			</a>
-			<a class="section" href="./p=events">
+			<a class="section" href="./?p=events">
 				<img src="assets/images/thumbs/thumb-2.png">
 				<div class="detail">
 					<h2>EVENTS</h1>
