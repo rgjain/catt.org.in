@@ -1,4 +1,4 @@
-	<div id="aboutus" class="w1000">
+	<div id="aboutus" class="page w1000">
 		<h1>CATT - Conservation Awareness Team Trust</h1>
 		<div class="content">
 			<p>We, the members of the CATT family, are professionals from various industries and sectors, united by a singular passion: the love for our wildlife and the urge to do our bit to save what is left of our natural heritage.</p>
