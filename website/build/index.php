@@ -42,7 +42,7 @@
 				
 				default:
 					include_once 'templates/banner.php';
-					include_once 'templates/vision.php';
+					// include_once 'templates/vision.php';
 					include_once 'templates/home.php';
 					break;
 			}
