@@ -23,7 +23,7 @@ img {
 	background-color: rgba(255, 255, 255, 0);
 	background-position: top center;
 	background-repeat: no-repeat;
-	background-image: url("images/body-bg-1.png");
+	background-image: url("images/body-bg-2.png");
 	padding-top: 100px;
 	position: absolute;
 	top: 0;
@@ -159,7 +159,7 @@ img {
 	margin-top: 50px;
 }
 .page .content {
-	width: 600px;
+	width: 700px;
 	margin: 10px 0;
 	padding: 10px;
 	border-top: 2px solid #aaa;
@@ -198,4 +198,39 @@ img {
 }
 .page .content table tr:nth-child(odd) {
 	background: #fff;
+}
+#vision {
+	background: #450;
+	height: 150px;
+	margin-top: 30px;
+}
+#contactus .content #address, #contactus .content #contactus-form {
+	margin-top: 40px;
+}
+#contactus .content #address p {
+	margin: 0;
+}
+#contactus .content #contactus-form {
+	margin-top: 100px;
+}
+#contactus .content #contactus-form label, #contactus .content #contactus-form input{
+	display: block;
+}
+#contactus .content #contactus-form input{
+	padding: 10px;
+	margin: 0 0 10px 0;
+	width: 300px;
+	border: 1px solid #aaa;
+	box-shadow: 1px 1px 2px 0px #aaa inset;
+	font-family: inherit;
+	border-radius: 3px;
+}
+#contactus .content #contactus-form #sendMsg{
+	padding: 10px;
+	border: 1px solid #fff;
+	box-shadow: 0 0 3px 0px #999;
+	border-radius: 2px;
+	background: #c60;
+	font-family: inherit;
+	width: auto;
 }

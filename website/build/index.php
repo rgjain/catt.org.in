@@ -32,8 +32,8 @@
 					include_once 'templates/membership.php';
 					break;
 				
-				case 'membersvolunteers':
-					include_once 'templates/membersvolunteers.php';
+				case 'memberssupporters':
+					include_once 'templates/memberssupporters.php';
 					break;
 				
 				case 'contactus':
@@ -42,6 +42,7 @@
 				
 				default:
 					include_once 'templates/banner.php';
+					include_once 'templates/vision.php';
 					include_once 'templates/home.php';
 					break;
 			}

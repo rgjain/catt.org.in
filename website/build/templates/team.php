@@ -11,6 +11,14 @@
 				</dd>
 
 				<dt>
+					<h2>Dattatreya Ghosh, City Director</h2>
+				</dt>	
+				<dd>
+					<p>Email: <a href="mailto:dattatreyaghosh@gmail.com">dattatreyaghosh@gmail.com</a></p>
+					<p>Phone: 9845105201</p>
+				</dd>
+
+				<dt>
 					<h2>Sayak Dutta, Field Director</h2>
 				</dt>	
 				<dd>
@@ -32,14 +40,6 @@
 				<dd>
 					<p>Email: <a href="mailto:shyamganeshk@gmail.com">shyamganeshk@gmail.com</a></p>
 					<p>Phone: 9845404911</p>
-				</dd>
-
-				<dt>
-					<h2>Dattatreya Ghosh, Trustee</h2>
-				</dt>	
-				<dd>
-					<p>Email: <a href="mailto:dattatreyaghosh@gmail.com">dattatreyaghosh@gmail.com</a></p>
-					<p>Phone: 9845105201</p>
 				</dd>
 
 				<dt>
