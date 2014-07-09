@@ -1,12 +1,12 @@
 	<div id="contactus" class="page w1000">
 		<h1>CONTACT US</h1>
 		<div class="content">
-			<h2>We are based here - </h2>
 			<div id="address">
 				<h3>CATT - Conservation Awareness Team Trust  </h3>
 				<p>#018, A Block, Adithya Soigne Apartment,</p>
 				<p>BEML Road, Shivanandanagar, Bangalore -560075</p>
 			</div>
+			<h2>Send us a message</h2>
 			<form id="contactus-form">
 				<label for="name">Name</label>
 				<input type="text" name="name" id="name" />

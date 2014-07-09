@@ -32,8 +32,12 @@
 					include_once 'templates/membership.php';
 					break;
 				
-				case 'memberssupporters':
-					include_once 'templates/memberssupporters.php';
+				case 'members':
+					include_once 'templates/members.php';
+					break;
+				
+				case 'supporters':
+					include_once 'templates/supporters.php';
 					break;
 				
 				case 'contactus':

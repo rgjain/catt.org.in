@@ -7,14 +7,20 @@ $(function(){
 	}
 
 	$("#sendMsg").click(function () {
-		var ajaxData = {
-			url : "php/sendcontactusemail.php",
-			type : "POST",
-			data : $("#contactus-form").serialize(),
-			success : function (resp) {
-				alert(resp);
-			}
-		};
+		var contactusForm = $("#contactus-form");
+
+		if (contactusForm.find("#name").val() == "" || contactusForm.find("#emailid").val() == "" || contactusForm.find("#message").val() == "") {
+			alert("All fields are required. Kindly re-check your entries");
+		} else {
+			var ajaxData = {
+				url : "php/sendcontactusemail.php",
+				type : "POST",
+				data : contactusForm.serialize(),
+				success : function (resp) {
+					alert(resp);
+				}
+			};
+		}
 
 		$.ajax(ajaxData);
 	});

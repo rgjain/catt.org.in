@@ -23,7 +23,7 @@ img {
 	background-color: rgba(255, 255, 255, 0);
 	background-position: top center;
 	background-repeat: no-repeat;
-	background-image: url("images/body-bg-2.png");
+	background-image: url("images/body-bg-1.png");
 	padding-top: 100px;
 	position: absolute;
 	top: 0;
@@ -59,13 +59,12 @@ img {
 /* close commented backslash hack */
 #header {
 	height: 120px;
-	border-bottom: 4px solid #000;
 	position: relative;
 }
 #header #logo {
 	background: #fff;
 	float: left;
-	padding: 8px 8px 9px 8px;
+	padding: 8px 9px 9px 10px;
 }
 #header #nav {
 	background: rgba(18, 53, 13, .7);
@@ -74,20 +73,15 @@ img {
 }
 #header #nav a {
 	text-align: center;
-	width: 110px;
+	width: 100px;
 	float: left;
 	color: #fff;
 	height: inherit;
-	vertical-align: middle;
-	border-left: 1px solid rgb(18, 53, 13);
     -moz-transition: background .5s;
     -webkit-transition: background .5s;
     -o-transition: background .5s;
     -ms-transition: background .5s;
     transition: background .5s;	
-}
-#header #nav a:first-child {
-	border-left: none;
 }
 #header #nav a:hover {
 	background: rgba(255, 255, 255, .1);
@@ -97,7 +91,7 @@ img {
 }
 #header #nav a span {
 	display: block;
-	margin-top: 40px;
+	line-height: 120px;
 }
 #banner {
 	overflow: hidden;
@@ -179,6 +173,19 @@ img {
 	border-bottom: 1px solid #eee;
 	margin-bottom: 20px;
 }
+#team dd div {
+	float: left;
+}
+#team dd img {
+	float: right;
+	width: 100px;
+	padding: 3px;
+	border: 1px solid #eee;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
 #events .content {
 	width: auto;
 }
@@ -199,19 +206,22 @@ img {
 .page .content table tr:nth-child(odd) {
 	background: #fff;
 }
+.page ul {
+	margin-left: 30px;
+}
 #vision {
 	background: #450;
 	height: 150px;
 	margin-top: 30px;
 }
-#contactus .content #address, #contactus .content #contactus-form {
+#contactus .content #address, #contactus .content h2 {
 	margin-top: 40px;
 }
 #contactus .content #address p {
 	margin: 0;
 }
 #contactus .content #contactus-form {
-	margin-top: 100px;
+	margin-top: 20px;
 }
 #contactus .content #contactus-form label, #contactus .content #contactus-form input{
 	display: block;
@@ -220,8 +230,7 @@ img {
 	padding: 10px;
 	margin: 0 0 10px 0;
 	width: 300px;
-	border: 1px solid #aaa;
-	box-shadow: 1px 1px 2px 0px #aaa inset;
+	border: 1px solid #43A116;
 	font-family: inherit;
 	border-radius: 3px;
 }
