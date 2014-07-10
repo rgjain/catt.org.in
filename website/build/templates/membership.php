@@ -2,17 +2,28 @@
 		<h1>MEMBERSHIP</h1>
 		<div class="content">
 			<p>You can support CATT through exclusive membership program. </p>
-			<h2>Annual membership fee structure:</h2>
-			<ul>
-				<li>Rs. 500 for students</li>
-				<li>Rs. 1000 for others</li>
-			</ul>
-			<p>This amount will enable us to drive our conservation and related activities. You will be able to participate in our core conservation activities as volunteer and all the relevant details will be shared with you. You will get one CATT logo t shirt as part of the membership program.</p>
-			<p>Even if you are mno</p>
 			<table>
 				<thead>
 					<tr>
-						<th colspan="2">Please find below the account details:</th>
+						<th colspan="2">Annual membership fee structure</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>For Students </td>
+						<td>Rs. 500</td>
+					</tr>
+					<tr>
+						<td>For Others</td>
+						<td>Rs. 10000</td>
+					</tr>
+				</tbody>
+			</table>
+			<p>This amount will enable us to drive our conservation and related activities. You will be able to participate in our core conservation activities as volunteer and all the relevant details will be shared with you. You will get one CATT logo t shirt as part of the membership program.</p>
+			<table>
+				<thead>
+					<tr>
+						<th colspan="2">Please find below the account details</th>
 					</tr>
 				</thead>
 				<tbody>

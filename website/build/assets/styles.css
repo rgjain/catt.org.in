@@ -195,6 +195,7 @@ img {
 .page .content table th {
 	background: #eee;
 	padding: 8px 5px;
+	text-align: left;
 }
 .page .content table td {
 	vertical-align: top;
@@ -214,14 +215,14 @@ img {
 	height: 150px;
 	margin-top: 30px;
 }
-#contactus .content #address, #contactus .content h2 {
+#contactus .content h2 {
 	margin-top: 40px;
 }
 #contactus .content #address p {
 	margin: 0;
 }
 #contactus .content #contactus-form {
-	margin-top: 20px;
+	margin-top: 10px;
 }
 #contactus .content #contactus-form label, #contactus .content #contactus-form input{
 	display: block;
