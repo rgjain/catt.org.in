@@ -15,7 +15,7 @@
 					</tr>
 					<tr>
 						<td>For Others</td>
-						<td>Rs. 10000</td>
+						<td>Rs. 1000</td>
 					</tr>
 				</tbody>
 			</table>
