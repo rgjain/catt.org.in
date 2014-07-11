@@ -28,7 +28,7 @@ img {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 450px;
+	height: 720px;
 	width: 100%;
 	z-index: 0;
 	border-bottom: 5px solid #fff;
@@ -60,6 +60,7 @@ img {
 #header {
 	height: 120px;
 	position: relative;
+	z-index: 1;
 }
 #header #logo {
 	background: #fff;
@@ -102,6 +103,7 @@ img {
 	box-sizing: border-box;
 	margin-top: 30px;
 	background: rgba(255, 255, 255, .7);
+	z-index: 1;
 }
 #banner img {
 	width: 100%;
@@ -109,6 +111,8 @@ img {
 #agrid {
 	height: 300px;
 	margin-top: 40px;
+	position: relative;
+	z-index: 1;
 }
 #agrid .section {
 	display: inline-block;
@@ -151,6 +155,7 @@ img {
 .page {
 	position: relative;
 	margin-top: 50px;
+	z-index: 1;
 }
 .page .content {
 	width: 700px;
@@ -211,9 +216,56 @@ img {
 	margin-left: 30px;
 }
 #vision {
-	background: #450;
-	height: 150px;
+	height: 220px;
+	width: 1040px;
 	margin-top: 30px;
+	padding-top: 20px;
+	position: relative;
+}
+#vision:after, #vision:before {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	height: 50%;
+	background: url("images/topHalfShade.png") no-repeat top center;
+	content: " ";
+	z-index: 3;
+}
+#vision:before {
+	top: auto;
+	bottom: 0;
+	background: url("images/bottomHalfShade.png") no-repeat bottom center;
+}
+#vision #content {
+	background: #fff;
+	height: 200px;
+	position: relative;
+	width: 1000px;
+	z-index: 5;
+}
+#vision h2 {
+	border-bottom: 1px solid #294a0f;
+	text-align: center;
+	padding: 5px;
+	background: #eee
+}
+#vision ul li {
+	display: inline-block;
+	vertical-align: middle;
+	width: 300px;
+	text-align: center;
+	margin: 20px 0;
+	margin-left: 20px;
+	padding-left: 20px;
+	padding-top: 5px;
+	height: 120px;
+	border-left: 1px solid #eee;
+	line-height: 24px;
+}
+#vision ul li:first-child {
+	margin-left: 5px;
+	padding-left: 5px;
+	border-left: none;
 }
 #contactus .content h2 {
 	margin-top: 40px;
