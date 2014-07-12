@@ -2,32 +2,224 @@
 		<h1>EVENTS</h1>
 		<div class="content">
 			<h2>List of events completed by CATT so far.</h2>
-			<table>
-				<thead>
-					<tr>
-						<th>SL No.</th><th>Activity Date</th><th>No. of Days</th><th>Activity Name</th><th>Name of the Trustee/Organizer</th><th>No of volunteers</th><th>Name of the Volunteers</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr><td>1</td><td>8-Feb-2014 to 9-Feb-2014</td><td>2</td><td>Eco Trek 1_Brahmagiri Wildlife Sanctuary (Makuta range)</td><td>Pratap</td><td>6</td><td>Aravind, SURESH, HARSH, R Srinivasa and Shirisha</td></tr>
-					<tr><td>2</td><td>15-Feb-2014</td><td>1</td><td>Awareness Program at Bandipur</td><td>Sayak, Shyam and Pratap</td><td>1</td><td>Deepak Shankar</td></tr>
-					<tr><td>3</td><td>27-Feb-2014 to 3-Mar-2014</td><td>3</td><td>Litter Clearing Drive 1_Bandipur Tiger Reserve </td><td>Sayak</td><td>2</td><td>Sriram, Ruchita</td></tr>
-					<tr><td>4</td><td>15-Mar-2014</td><td>1</td><td>Forest Fire Control_Bandipur Tiger Reserve </td><td>Saradhi</td><td>1</td><td>Srinivasa K</td></tr>
-					<tr><td>5</td><td>15-Mar-2014 to 16-Mar-2014</td><td>2</td><td>Eco Trek 2_Talacauvery Wildlife Sanctuary</td><td>Pratap</td><td>7</td><td>Srivatsa, Manoj, Lakshman, Anand, Vasuki, Sandeep K S and Vinay </td></tr>
-					<tr><td>6</td><td>25-Mar-2014 to 31-Mar-2014</td><td>3</td><td>Crowd Management &amp; Litter Clearing Drive 2_Bandipur Tiger Reserve  (GS Betta Range)</td><td>Sayak &amp; Saradhi</td><td>3</td><td></td></tr>
-					<tr><td>7</td><td>13-Apr-2014</td><td>1</td><td>Litter Clearing Drive 3_Talacauvery Wildlife Sanctuary</td><td>Pratap</td><td>3</td><td>Achintya, Chethan &amp; Shyamal</td></tr>
-					<tr><td>8</td><td>19-Apr-2014</td><td>1</td><td>Medical Camp 1_Bandipur Tiger Reserve </td><td>Saradhi &amp; Shyam</td><td></td><td></td></tr>
-					<tr><td>9</td><td>19-Apr-2014 to 20-Apr-2014</td><td>2</td><td>"ECO Trek 3_Brahmagiri Wildlife Sanctuary_Sharadabbi falls &amp; Nanjigund hills"</td><td>Pratap</td><td>4</td><td>Vidyasagar, Nischay, Keerthana and Sriram</td></tr>
-					<tr><td>10</td><td>25-Apr-2014</td><td>1</td><td>Medical Camp 2_Bandipur Tiger Reserve </td><td>Dattatreya </td><td></td><td></td></tr>
-					<tr><td>11</td><td>3-May-2014</td><td>1</td><td>Medical Camp 3_Bandipur Tiger Reserve </td><td>Saradhi</td><td></td><td></td></tr>
-					<tr><td>12</td><td>30-May-2014 to 31-May-2014</td><td>2</td><td>Training on Lantana Removal_Bandipur Tiger Reserve </td><td>Pratap</td><td>1</td><td>Suresh</td></tr>
-					<tr><td>13</td><td>1-Jun-2014</td><td>1</td><td>Litter Clearing Drive 4_Bandipur Tiger Reserve  (GS Betta Range)</td><td>Pratap</td><td>2</td><td>Suresh &amp; Srinivasa K</td></tr>
-					<tr><td>14</td><td>21-Jun-2014</td><td>1</td><td>Foot Patrolling 1_Bandipur Tiger Reserve</td><td>Pratap &amp; Saradhi</td><td>2</td><td>Suresh &amp; Vinayak</td></tr>
-					<tr><td>15</td><td>22-Jun-2014</td><td>1</td><td>Litter Clearing Drive 5_Bandipur Tiger Reserve (NH, From Bandipur forest range office to Keknahalla check post)</td><td>Pratap &amp; Saradhi</td><td>2</td><td>Suresh &amp; Sreekantha</td></tr>
-					<tr><td>16</td><td>21-Jun-2014</td><td>1</td><td>Conservation And Awareness Progrmme in JSS Public School</td><td>Dattatreya &amp; Shyam</td><td>2</td><td>Sujata &amp; Amit</td></tr>
-					<tr><td>17</td><td>28-Jun-2014 to 29-Jun-2014</td><td>2</td><td>support for initial phase of pole installation for camera traps_Bandipur Tiger Reserve</td><td>Pratap</td><td>4</td><td>Suresh, Achintya, Govind and Girish</td></tr>
-					<tr><td>18</td><td>6-Jul-2014</td><td>1</td><td>Awareness Campaign_Vibha Dream Run</td><td>Shyam</td><td>5</td><td>Pratap, Dattatreya, Girish &amp; Rajesh</td></tr>
-				</tbody>
-			</table>
+			<ul class="event-item">
+				<li>
+					<div class="date">
+						<span>8-Feb-2014 to 9-Feb-2014</span>
+						<span>2 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">1</span>
+						<span class="name">Eco liek 1_Brahmagiri Wildlife Sanctuary (Makuta range)</span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (6)</strong>Aravind, SURESH, HARSH, R Srinivasa and Shirisha</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>15-Feb-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">2</span>
+						<span class="name">Awareness Program at Bandipur</span>
+						<span class="org"><strong>Organizers</strong>Sayak, Shyam and Pratap</span>
+						<span class="vol"><strong>Volunteers (1)</strong>Deepak Shankar</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>27-Feb-2014 to 3-Mar-2014</span>
+						<span>3 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">3</span>
+						<span class="name">Litter Clearing Drive 1_Bandipur Tiger Reserve </span>
+						<span class="org"><strong>Organizers</strong>Sayak</span>
+						<span class="vol"><strong>Volunteers (2)</strong>Sriram, Ruchita</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>15-Mar-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">4</span>
+						<span class="name">Forest Fire Conliol_Bandipur Tiger Reserve </span>
+						<span class="org"><strong>Organizers</strong>Saradhi</span>
+						<span class="vol"><strong>Volunteers (1)</strong>Srinivasa K</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>15-Mar-2014 to 16-Mar-2014</span>
+						<span>2 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">5</span>
+						<span class="name">Eco liek 2_Talacauvery Wildlife Sanctuary</span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (7)</strong>Srivatsa, Manoj, Lakshman, Anand, Vasuki, Sandeep K S and Vinay </span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>25-Mar-2014 to 31-Mar-2014</span>
+						<span>3 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">6</span>
+						<span class="name">Crowd Management &amp; Litter Clearing Drive 2_Bandipur Tiger Reserve  (GS Betta Range)</span>
+						<span class="org"><strong>Organizers</strong>Sayak &amp; Saradhi</span>
+						<span class="vol">&nbsp;</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>13-Apr-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">7</span>
+						<span class="name">Litter Clearing Drive 3_Talacauvery Wildlife Sanctuary</span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (3)</strong>Achintya, Chethan &amp; Shyamal</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>19-Apr-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">8</span>
+						<span class="name">Medical Camp 1_Bandipur Tiger Reserve </span>
+						<span class="org"><strong>Organizers</strong>Saradhi &amp; Shyam</span>
+						<span class="vol">&nbsp;</span>
+						<span></span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>19-Apr-2014 to 20-Apr-2014</span>
+						<span>2 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">9</span>
+						<span class="name">"ECO liek 3_Brahmagiri Wildlife Sanctuary_Sharadabbi falls &amp; Nanjigund hills"</span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (4)</strong>Vidyasagar, Nischay, Keerthana and Sriram</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>25-Apr-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">10</span>
+						<span class="name">Medical Camp 2_Bandipur Tiger Reserve </span>
+						<span class="org"><strong>Organizers</strong>Dattalieya </span>
+						<span class="vol">&nbsp;</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>3-May-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">11</span>
+						<span class="name">Medical Camp 3_Bandipur Tiger Reserve </span>
+						<span class="org"><strong>Organizers</strong>Saradhi</span>
+						<span class="vol">&nbsp;</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>30-May-2014 to 31-May-2014</span>
+						<span>2 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">12</span>
+						<span class="name">liaining on Lantana Removal_Bandipur Tiger Reserve </span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (1)</strong>Suresh</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>1-Jun-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">13</span>
+						<span class="name">Litter Clearing Drive 4_Bandipur Tiger Reserve  (GS Betta Range)</span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (2)</strong>Suresh &amp; Srinivasa K</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>21-Jun-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">14</span>
+						<span class="name">Foot Paliolling 1_Bandipur Tiger Reserve</span>
+						<span class="org"><strong>Organizers</strong>Pratap &amp; Saradhi</span>
+						<span class="vol"><strong>Volunteers (2)</strong>Suresh &amp; Vinayak</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>22-Jun-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">15</span>
+						<span class="name">Litter Clearing Drive 5_Bandipur Tiger Reserve (NH, From Bandipur forest range office to Keknahalla check post)</span>
+						<span class="org"><strong>Organizers</strong>Pratap &amp; Saradhi</span>
+						<span class="vol"><strong>Volunteers (2)</strong>Suresh &amp; Sreekantha</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>21-Jun-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">16</span>
+						<span class="name">Conservation And Awareness Progrmme in JSS Public School</span>
+						<span class="org"><strong>Organizers</strong>Dattalieya &amp; Shyam</span>
+						<span class="vol"><strong>Volunteers (2)</strong>Sujata &amp; Amit</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>28-Jun-2014 to 29-Jun-2014</span>
+						<span>2 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">17</span>
+						<span class="name">support for initial phase of pole installation for camera liaps_Bandipur Tiger Reserve</span>
+						<span class="org"><strong>Organizers</strong>Pratap</span>
+						<span class="vol"><strong>Volunteers (4)</strong>Suresh, Achintya, Govind and Girish</span>
+					</div>
+				</li>
+				<li>
+					<div class="date">
+						<span>6-Jul-2014</span>
+						<span>1 day(s)</span>
+					</div>
+					<div class="detail">
+						<span class="slno">18</span>
+						<span class="name">Awareness Campaign_Vibha Dream Run</span>
+						<span class="org"><strong>Organizers</strong>Shyam</span>
+						<span class="vol"><strong>Volunteers (5)</strong>Pratap, Dattalieya, Girish &amp; Rajesh</span>
+					</div>
+				</li>
+			</ul>
 		</div>
 	</div>
