@@ -1,4 +1,4 @@
-	<div id="team" class="page w1000">
+	<div id="team" class="page w1000 team-members">
 		<h1>THE TEAM</h1>
 		<div class="content">
 			<dl>
@@ -10,7 +10,7 @@
 						<p>Email: <a href="mailto:saradhi.roy@gmail.com">saradhi.roy@gmail.com</a></p>
 						<p>Phone: 9845993725</p>
 					</div>
-					<img src="assets/images/profile/saradhi.png" alt="Saradhi Roy">
+					<img src="assets/images/profile/team/saradhi.png" alt="Saradhi Roy">
 				</dd>
 
 				<dt>
@@ -21,7 +21,7 @@
 						<p>Email: <a href="mailto:dattatreyaghosh@gmail.com">dattatreyaghosh@gmail.com</a></p>
 						<p>Phone: 9845105201</p>
 					</div>
-					<img src="assets/images/profile/dattatreya.png" alt="Saradhi Roy">
+					<img src="assets/images/profile/team/dattatreya.png" alt="Dattatreya Ghosh">
 				</dd>
 
 				<dt>
@@ -32,7 +32,7 @@
 						<p>Email: <a href="mailto:sayak1001@yahoo.com">sayak1001@yahoo.com</a></p>
 						<p>Phone: 8971281818</p>
 					</div>
-					<img src="assets/images/profile/sayak.png" alt="Saradhi Roy">
+					<img src="assets/images/profile/team/sayak.png" alt="Sayak Dutta">
 				</dd>
 
 				<dt>
@@ -43,7 +43,7 @@
 						<p>Email: <a href="mailto:sahana1.1981@gmail.com">sahana1.1981@gmail.com</a></p>
 						<p>Phone: 9686275036</p>
 					</div>
-					<img src="assets/images/profile/sahana.png" alt="Saradhi Roy">
+					<img src="assets/images/profile/team/sahana.png" alt="Sahana Roy">
 				</dd>
 
 				<dt>
@@ -54,7 +54,7 @@
 						<p>Email: <a href="mailto:shyamganeshk@gmail.com">shyamganeshk@gmail.com</a></p>
 						<p>Phone: 9845404911</p>
 					</div>
-					<img src="assets/images/profile/shyam.png" alt="Saradhi Roy">
+					<img src="assets/images/profile/team/shyam.png" alt="Shyam G Karthachira">
 				</dd>
 
 				<dt>
@@ -65,7 +65,7 @@
 						<p>Email: <a href="mailto:pratap.sikdar@gmail.com">pratap.sikdar@gmail.com</a></p>
 						<p>Phone: 9972596272</p>
 					</div>
-					<img src="assets/images/profile/pratap.png" alt="Saradhi Roy">
+					<img src="assets/images/profile/team/pratap.png" alt="Pratap Sikdar">
 				</dd>
 			</dl>
 		</div>

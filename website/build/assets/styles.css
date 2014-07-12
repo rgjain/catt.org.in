@@ -171,17 +171,24 @@ img {
 	margin: 20px 0;
 	line-height: 22px;
 }
-#team .content p {
-	margin: 10px 0;
-}
-#team dd {
-	border-bottom: 1px solid #eee;
+.page .content .intro {
+	border-bottom: 1px solid #555;
+	padding-bottom: 20px;
 	margin-bottom: 20px;
 }
-#team dd div {
-	float: left;
+.team-members .content p {
+	margin: 10px 0;
 }
-#team dd img {
+.team-members dd {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.team-members dd div {
+	float: left;
+	width: 550px;
+}
+.team-members dd img {
 	float: right;
 	width: 100px;
 	padding: 3px;
