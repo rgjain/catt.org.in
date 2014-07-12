@@ -219,17 +219,17 @@ ul.event-item li {
 ul.event-item li .date{
 	position: absolute;
 	display: table;
-	top: -22px;
+	top: -23px;
 	left: 70px;
 	background: #fff;
 	border-radius: 3px;
-	border: 1px solid #62804c;
+	border: 1px solid #aaa;
 }
 ul.event-item li .date span{
 	display: table-cell;
 	padding: 5px 10px;
 	border-left: 1px solid #ccc;
-	color: #555;
+	color: #aaa;
 }
 ul.event-item li .date span:first-child{
 	border-left: none;
