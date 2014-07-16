@@ -7,7 +7,8 @@ $(function(){
 	}
 
 	$("#sendMsg").click(function () {
-		var contactusForm = $("#contactus-form");
+		var contactusForm = $("#contactus-form"),
+			msg = "";
 
 		if (contactusForm.find("#name").val() == "" || contactusForm.find("#emailid").val() == "" || contactusForm.find("#message").val() == "") {
 			alert("All fields are required. Kindly re-check your entries");
@@ -17,7 +18,12 @@ $(function(){
 				type : "POST",
 				data : contactusForm.serialize(),
 				success : function (resp) {
-					alert(resp);
+					if (resp == true) {
+						msg = '<span>Thank you for contacting CATT. We will get back to you soon</span>'
+					} else {
+						msg = '<span>There was an error sending the message. Please try again</span>'
+					}
+					$("#sendMsg").after(msg);
 				}
 			};
 		}

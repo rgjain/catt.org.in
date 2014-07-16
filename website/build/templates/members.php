@@ -1,7 +1,7 @@
 	<div id="members" class="page w1000 team-members">
 		<h1>MEMBERS</h1>
 		<div class="content">
-			<p class="intro">We are really grateful to all our CATT members. Our members have helped us to grow by providing financial support as well as volunteering in several field &amp;amp; city based events. Most of our members are professionals in the corporate world but all of them share a common interest to conserve nature &amp;amp; wildlife. CATT members comprise of wildlife enthusiasts, nature lovers, trekkers, amature photographers, birders and mountainers. Read more about few of our most active and vibrant Members.</p>
+			<p class="intro">We are really grateful to all our CATT members. Our members have helped us to grow by providing financial support as well as volunteering in several field &amp; city based events. Most of our members are professionals in the corporate world but all of them share a common interest to conserve nature &amp; wildlife. CATT members comprise of wildlife enthusiasts, nature lovers, trekkers, amature photographers, birders and mountainers. Read more about few of our most active and vibrant Members.</p>
 			<dl>
 				<dt>
 					<h2>Suresh Babu</h2>
@@ -18,7 +18,7 @@
 				</dt>	
 				<dd class="clearfix">
 					<div>
-						Deepak is a software professional, a wildlife enthusiast and a Managing Committee member of Banerghatta Rehabilitation Center (BRC), Bangalore. He was one of the volunteers for CATT's first field activity i.e. Forest Fire Awareness Programme in Bandipur Tiger Reserve. He participated in Tiger Census Phase 1 conducted by Karnataka Forest Department and was assigned to Kudremukha National Park.
+						Deepak is a financial analyst, a wildlife enthusiast and a Managing Committee member of Banerghatta Rehabilitation Center (BRC), Bangalore. He was one of the volunteers for CATT's first field activity i.e. Forest Fire Awareness Programme in Bandipur Tiger Reserve. He participated in Tiger Census Phase 1 conducted by Karnataka Forest Department and was assigned to Kudremukha National Park.
 					</div>
 					<img src="assets/images/profile/members/deepakshankar.png" alt="Deepak Shankar">
 				</dd>
@@ -70,6 +70,7 @@
 					<div>
 						One of our most active Member. He has participated in multiple field &amp; city based activities. He has helped to enhance CATT Team.
 					</div>
+					<img src="assets/images/profile/members/vinayak.png" alt="Girish K">
 				</dd>
 
 				<dt>
