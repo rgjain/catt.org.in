@@ -10,7 +10,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">1</span>
-						<span class="name">Eco liek 1_Brahmagiri Wildlife Sanctuary (Makuta range)</span>
+						<span class="name">Eco Trek 1 Brahmagiri Wildlife Sanctuary (Makuta range)</span>
 						<span class="org"><strong>Organizers</strong>Pratap</span>
 						<span class="vol"><strong>Volunteers (6)</strong>Aravind, SURESH, HARSH, R Srinivasa and Shirisha</span>
 					</div>
@@ -30,11 +30,11 @@
 				<li>
 					<div class="date">
 						<span>27-Feb-2014 to 3-Mar-2014</span>
-						<span>3 day(s)</span>
+						<span>4 day(s)</span>
 					</div>
 					<div class="detail">
 						<span class="slno">3</span>
-						<span class="name">Litter Clearing Drive 1_Bandipur Tiger Reserve </span>
+						<span class="name">Litter Clearing Drive 1 Bandipur Tiger Reserve </span>
 						<span class="org"><strong>Organizers</strong>Sayak</span>
 						<span class="vol"><strong>Volunteers (2)</strong>Sriram, Ruchita</span>
 					</div>
@@ -46,7 +46,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">4</span>
-						<span class="name">Forest Fire Conliol_Bandipur Tiger Reserve </span>
+						<span class="name">Forest-Fire Control Bandipur Tiger Reserve </span>
 						<span class="org"><strong>Organizers</strong>Saradhi</span>
 						<span class="vol"><strong>Volunteers (1)</strong>Srinivasa K</span>
 					</div>
@@ -58,7 +58,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">5</span>
-						<span class="name">Eco liek 2_Talacauvery Wildlife Sanctuary</span>
+						<span class="name">Eco Trek 2 Talacauvery Wildlife Sanctuary</span>
 						<span class="org"><strong>Organizers</strong>Pratap</span>
 						<span class="vol"><strong>Volunteers (7)</strong>Srivatsa, Manoj, Lakshman, Anand, Vasuki, Sandeep K S and Vinay </span>
 					</div>
@@ -66,11 +66,11 @@
 				<li>
 					<div class="date">
 						<span>25-Mar-2014 to 31-Mar-2014</span>
-						<span>3 day(s)</span>
+						<span>7 day(s)</span>
 					</div>
 					<div class="detail">
 						<span class="slno">6</span>
-						<span class="name">Crowd Management &amp; Litter Clearing Drive 2_Bandipur Tiger Reserve  (GS Betta Range)</span>
+						<span class="name">Crowd Management &amp; Litter Clearing Drive 2 Bandipur Tiger Reserve  (GS Betta Range)</span>
 						<span class="org"><strong>Organizers</strong>Sayak &amp; Saradhi</span>
 						<span class="vol">&nbsp;</span>
 					</div>
@@ -82,7 +82,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">7</span>
-						<span class="name">Litter Clearing Drive 3_Talacauvery Wildlife Sanctuary</span>
+						<span class="name">Litter Clearing Drive 3 Talacauvery Wildlife Sanctuary</span>
 						<span class="org"><strong>Organizers</strong>Pratap</span>
 						<span class="vol"><strong>Volunteers (3)</strong>Achintya, Chethan &amp; Shyamal</span>
 					</div>
@@ -107,7 +107,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">9</span>
-						<span class="name">"ECO liek 3_Brahmagiri Wildlife Sanctuary_Sharadabbi falls &amp; Nanjigund hills"</span>
+						<span class="name">"ECO Trek 3 Brahmagiri Wildlife Sanctuary_Sharadabbi falls &amp; Nanjigund hills"</span>
 						<span class="org"><strong>Organizers</strong>Pratap</span>
 						<span class="vol"><strong>Volunteers (4)</strong>Vidyasagar, Nischay, Keerthana and Sriram</span>
 					</div>
@@ -120,7 +120,7 @@
 					<div class="detail">
 						<span class="slno">10</span>
 						<span class="name">Medical Camp 2_Bandipur Tiger Reserve </span>
-						<span class="org"><strong>Organizers</strong>Dattalieya </span>
+						<span class="org"><strong>Organizers</strong>Dattatreya </span>
 						<span class="vol">&nbsp;</span>
 					</div>
 				</li>
@@ -143,7 +143,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">12</span>
-						<span class="name">liaining on Lantana Removal_Bandipur Tiger Reserve </span>
+						<span class="name">Training on Lantana Removal_Bandipur Tiger Reserve </span>
 						<span class="org"><strong>Organizers</strong>Pratap</span>
 						<span class="vol"><strong>Volunteers (1)</strong>Suresh</span>
 					</div>
@@ -167,7 +167,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">14</span>
-						<span class="name">Foot Paliolling 1_Bandipur Tiger Reserve</span>
+						<span class="name">Foot Patrolling 1_Bandipur Tiger Reserve</span>
 						<span class="org"><strong>Organizers</strong>Pratap &amp; Saradhi</span>
 						<span class="vol"><strong>Volunteers (2)</strong>Suresh &amp; Vinayak</span>
 					</div>
@@ -191,8 +191,8 @@
 					</div>
 					<div class="detail">
 						<span class="slno">16</span>
-						<span class="name">Conservation And Awareness Progrmme in JSS Public School</span>
-						<span class="org"><strong>Organizers</strong>Dattalieya &amp; Shyam</span>
+						<span class="name">Conservation And Awareness Programme in JSS Public School</span>
+						<span class="org"><strong>Organizers</strong>Dattatreya &amp; Shyam</span>
 						<span class="vol"><strong>Volunteers (2)</strong>Sujata &amp; Amit</span>
 					</div>
 				</li>
@@ -203,7 +203,7 @@
 					</div>
 					<div class="detail">
 						<span class="slno">17</span>
-						<span class="name">support for initial phase of pole installation for camera liaps_Bandipur Tiger Reserve</span>
+						<span class="name">support for initial phase of pole installation for camera traps Bandipur Tiger Reserve</span>
 						<span class="org"><strong>Organizers</strong>Pratap</span>
 						<span class="vol"><strong>Volunteers (4)</strong>Suresh, Achintya, Govind and Girish</span>
 					</div>
@@ -217,7 +217,7 @@
 						<span class="slno">18</span>
 						<span class="name">Awareness Campaign_Vibha Dream Run</span>
 						<span class="org"><strong>Organizers</strong>Shyam</span>
-						<span class="vol"><strong>Volunteers (5)</strong>Pratap, Dattalieya, Girish &amp; Rajesh</span>
+						<span class="vol"><strong>Volunteers (5)</strong>Pratap, Dattatreya, Girish &amp; Rajesh</span>
 					</div>
 				</li>
 			</ul>
