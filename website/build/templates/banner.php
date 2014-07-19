@@ -1,4 +1,7 @@
 		<div id="banner" class="w1000">
+			<img src="assets/images/banner/15072014/bnr-img-01.png" />
+			<img src="assets/images/banner/15072014/bnr-img-02.png" />
+
 			<img src="assets/images/banner/15072014/bnr-img-a-01.png" />
 			<img src="assets/images/banner/15072014/bnr-img-a-02.png" />
 			<img src="assets/images/banner/15072014/bnr-img-a-03.png" />
