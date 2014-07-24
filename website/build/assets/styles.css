@@ -74,7 +74,7 @@ img {
 }
 #header #nav a {
 	text-align: center;
-	width: 100px;
+	width: 115px;
 	float: left;
 	color: #fff;
 	height: inherit;
@@ -158,10 +158,10 @@ img {
 	z-index: 1;
 }
 .page .content {
-	width: 700px;
+	/*width: 700px;*/
 	margin: 10px 0;
 	padding: 10px;
-	border: 2px solid #aaa;
+	border-top: 2px solid #aaa;
 	background: #fff;
 }
 .page h1 {
@@ -175,6 +175,33 @@ img {
 	border-bottom: 1px solid #555;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
+}
+#aboutus .content .team-members ul {
+	margin: 0;
+	padding: 0;
+	margin-top: 20px;
+	border-top: 1px solid #ddd;
+	padding-top: 20px;
+}
+#aboutus .content .team-members ul li {
+	display: inline-block;
+	vertical-align: top;
+	width: 160px;
+	text-align: center;
+}
+#aboutus .content .team-members ul li img {
+	height: 130px;
+	padding: 3px;
+	border: 1px solid #eee;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-bottom: 10px;
+}
+#aboutus .content .team-members ul li p {
+	padding: 5px;
+	margin: 0;
+	line-height: normal;
+	font-size: 11px;
 }
 .team-members .content p {
 	margin: 10px 0;
