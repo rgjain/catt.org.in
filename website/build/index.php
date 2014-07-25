@@ -28,8 +28,8 @@
 					include_once 'templates/gallery.php';
 					break;
 				
-				case 'membership':
-					include_once 'templates/membership.php';
+				case 'ourmentor':
+					include_once 'templates/ourmentor.php';
 					break;
 				
 				case 'members':
@@ -42,6 +42,10 @@
 				
 				case 'contactus':
 					include_once 'templates/contactus.php';
+					break;
+				
+				case 'forest':
+					include_once 'templates/forest.php';
 					break;
 				
 				default:
