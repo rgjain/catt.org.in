@@ -176,6 +176,13 @@ img {
 	padding-bottom: 20px;
 	margin-bottom: 20px;
 }
+.page .content .intro a {
+	display: block;
+	float: right;
+	background: #c60;
+	padding: 3px 15px;
+	color: #fff;
+}
 #aboutus .content .team-members ul {
 	margin: 0;
 	padding: 0;

@@ -1,7 +1,8 @@
 	<div id="members" class="page w1000 team-members">
 		<h1>MEMBERS</h1>
 		<div class="content">
-			<p class="intro">We are really grateful to all our CATT members. Our members have helped us to grow by providing financial support as well as volunteering in several field &amp; city based events. Most of our members are professionals in the corporate world but all of them share a common interest to conserve nature &amp; wildlife. CATT members comprise of wildlife enthusiasts, nature lovers, trekkers, amature photographers, birders and mountainers. Read more about few of our most active and vibrant Members.</p>
+			<p class="intro">We are really grateful to all our CATT members. Our members have helped us to grow by providing financial support as well as volunteering in several field &amp; city based events. Most of our members are professionals in the corporate world but all of them share a common interest to conserve nature &amp; wildlife. CATT members comprise of wildlife enthusiasts, nature lovers, trekkers, amature photographers, birders and mountainers. Read more about few of our most active and vibrant Members.
+			<a href="./?p=membership">Click here to become a member</a></p>
 			<dl>
 				<dt>
 					<h2>Suresh Babu</h2>
