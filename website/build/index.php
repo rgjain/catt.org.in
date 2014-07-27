@@ -36,6 +36,10 @@
 					include_once 'templates/members.php';
 					break;
 				
+				case 'membership':
+					include_once 'templates/membership.php';
+					break;
+				
 				case 'supporters':
 					include_once 'templates/supporters.php';
 					break;

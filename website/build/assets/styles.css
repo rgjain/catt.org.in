@@ -31,7 +31,7 @@ a {
 	position: absolute;
 	top: 0;
 	left: 0;
-	height: 450px;
+	height: 698px;
 	width: 100%;
 	z-index: 0;
 	border-bottom: 5px solid #fff;
@@ -151,6 +151,7 @@ a {
 	background: #fff;
 	padding: 30px 0;
 	margin-top: 30px;
+	position: relative;
 }
 #footer a {
 	color: #555;
@@ -235,6 +236,9 @@ a {
 	border-bottom-right-radius: 30px;
 	margin-top: -20px;
 	margin-bottom: 20px;
+}
+.team-members dt h2 {
+	width: 800px;
 }
 #events .content {
 	width: auto;
@@ -402,4 +406,9 @@ ul.event-item li .detail span strong {
 #membership .content {
 	height: 2314px;
 	overflow: hidden;
+}
+#supporters dl {
+	border-top: 1px solid #555;
+	margin-top: 20px;
+	padding-top: 20px;
 }
