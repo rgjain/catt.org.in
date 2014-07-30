@@ -5,6 +5,7 @@
 				<h3>CATT - Conservation Awareness Team Trust  </h3>
 				<p>#018, A Block, Adithya Soigne Apartment,</p>
 				<p>BEML Road, Shivanandanagar, Bangalore -560075</p>
+				<p>Email: <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 			</div>
 			<h2>Send us a message</h2>
 			<form id="contactus-form">

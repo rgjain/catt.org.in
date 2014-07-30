@@ -2,8 +2,6 @@
 		<h1>SUPPORTERS</h1>
 		<div class="content">
 			<p>We are quite grateful to the organizations, other friends &amp; volunteers who has helped us in successful completion of some of the events by providing their extended support. Medical camps, Awareness Campaign and Tree Plantation drive are some of the events which would have not been possible without active involvement from this group of supporters. Read more about CATT Supporters.</p>
-			<p><strong>Mr. Kantharaju, Chief Conservator of Forest - Bandipur Tiger Reserve, and other Forest Officials, Bandipur National Park</strong></p>
-			<p>CATT is very thankful to Mr. Kantharaju and the entire team of ACF, Mr. Maradimani,RFOs, Forest Watchers and other forest officials and staff members. This team of forest officials have been supporting and guiding us to conduct our conservation activities successfully.</p>
 
 			<dl>
 				<dt>

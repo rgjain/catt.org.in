@@ -22,6 +22,7 @@ $(function(){
 					console.log(resp);
 					if (resp == "true") {
 						msg = '<span>Thank you for contacting CATT. We will get back to you soon</span>'
+						contactusForm.find("input[type=text]").val("");
 					} else {
 						msg = '<span>There was an error sending the message. Please try again</span>'
 					}

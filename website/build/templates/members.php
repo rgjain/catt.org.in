@@ -82,6 +82,53 @@
 						Sriram by profession a HR expert and by passions a wildlife enthusiast, is one of the most prominent volunteers for CATT. He has participated in one of the Eco treks and volunteered in CATT's first Litter Clearing Drive in Bandipur Tiger Reserve.
 					</div>
 				</dd>
+
+				<dt>
+					<h2>Ananda Veluswamy </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+						Ananda is an avid Trekker with lot of wildlife enthusiasm. He helped us in conducting awareness campaign during VIBHA Dream Mile Run.
+					</div>
+				</dd>
+
+				<dt>
+					<h2>Rojin V </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+						He is an IT Specialist with love of Nature photography. Rojin has helped us in Tree plantation activity with Vikas Team.
+					</div>
+					<img src="assets/images/profile/members/rojin.png" alt="Girish K">
+				</dd>
+
+				<dt>
+					<h2>Vijay Kulkarni </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+						He works for an IT Major but has avid passion for protection of wildlife. He has participated in multiple field activities &amp; special mention he helped us to complete Medical Camp successfully.
+					</div>
+				</dd>
+
+				<dt>
+					<h2>Gagan Gowda </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+						A Student who loves wild &amp; full of enthusiasm. He is an active member of CATT &amp; participates in various activities.
+					</div>
+				</dd>
+
+				<dt>
+					<h2>Sreekanta </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+						A native of Bandipur our real hero who ardent birder &amp; have been instrumental in our multiple field activities.
+					</div>
+					<img src="assets/images/profile/members/sreekanta.png" alt="Girish K">
+				</dd>
 			</dl>
 		</div>		
 	</div>
