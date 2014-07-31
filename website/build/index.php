@@ -48,8 +48,8 @@
 					include_once 'templates/contactus.php';
 					break;
 				
-				case 'forest':
-					include_once 'templates/forest.php';
+				case 'wildindia':
+					include_once 'templates/wildindia.php';
 					break;
 				
 				default:

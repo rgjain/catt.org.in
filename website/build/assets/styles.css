@@ -19,7 +19,7 @@ img {
 	border: none;
 }
 a {
-	color: #000;
+	color: #d65f0f;
 	text-decoration: none;
 }
 #bg-slider {
@@ -323,56 +323,68 @@ ul.event-item li .detail span strong {
 	display: block;
 }
 #vision {
-	height: 220px;
 	width: 1040px;
 	margin-top: 40px;
-	padding-top: 20px;
+	padding: 20px 0 10px;
 	position: relative;
 }
 #vision:after, #vision:before {
 	width: 100%;
 	position: absolute;
-	top: 0;
+	bottom: 0;
 	height: 50%;
-	background: url("images/topHalfShade.png") no-repeat top center;
+	background: url("images/bottomHalfShade.png") no-repeat bottom center;
 	content: " ";
 	z-index: 3;
 }
-#vision:before {
-	top: auto;
-	bottom: 0;
-	background: url("images/bottomHalfShade.png") no-repeat bottom center;
+#vision:after {
+	top: 0;
+	bottom: auto;
+	background: url("images/topHalfShade.png") no-repeat top center;
 }
 #vision #content {
 	background: #fff;
-	height: 200px;
 	position: relative;
 	width: 1000px;
 	z-index: 5;
+	margin-bottom: 20px;
+}
+#vision-statement {
+	display: inline-block;
+	width: 440px;
+	vertical-align: top;
 }
 #vision h2 {
-	border-bottom: 1px solid #294a0f;
 	text-align: center;
 	padding: 5px;
-	background: #eee
 }
-#vision ul li {
-	display: inline-block;
-	vertical-align: middle;
-	width: 295px;
+#vision-statement ul li {
 	text-align: center;
-	margin: 20px 0;
-	margin-left: 20px;
-	padding-left: 20px;
-	padding-top: 5px;
-	height: 120px;
-	border-left: 1px solid #eee;
+	border-top: 1px solid #eee;
+	padding: 20px;
 	line-height: 24px;
+	list-style-type: none;
 }
-#vision ul li:first-child {
-	margin-left: 5px;
-	padding-left: 5px;
-	border-left: none;
+#happenings {
+	display: inline-block;
+	background: #f5f6f7;
+	width: 559px;
+	height: 352px;
+	vertical-align: top;
+	margin-left: -3px;
+}
+#happenings img {
+	float: left;
+	margin: 10px 20px;
+	padding: 5px;
+	background: #fff;
+	border: 1px solid #eee;
+}
+#happenings h3 {
+	margin: 20px 5px;
+}
+#happenings p {
+	margin: 20px 10px;
 }
 #contactus .content h2 {
 	margin-top: 40px;
