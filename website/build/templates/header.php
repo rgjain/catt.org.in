@@ -7,7 +7,7 @@
 				<a href="./?p=members" <?php if ($p == "members") { echo 'class="active"';} ?> ><span>MEMBERS</span></a>
 				<a href="./?p=supporters" <?php if ($p == "supporters") { echo 'class="active"';} ?> ><span>SUPPORTERS</span></a>
 				<a href="./?p=ourmentor" <?php if ($p == "ourmentor") { echo 'class="active"';} ?> ><span>OUR MENTOR</span></a>
-				<a href="./?p=forest" <?php if ($p == "forest") { echo 'class="active"';} ?> ><span>FOREST</span></a>
+				<a href="./?p=wildindia" <?php if ($p == "wildindia") { echo 'class="active"';} ?> ><span>WILD INDIA</span></a>
 				<a href="./?p=contactus" <?php if ($p == "contactus") { echo 'class="active"';} ?> ><span>CONTACT US</span></a>
 			</div>
 		</div>
