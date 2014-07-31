@@ -111,6 +111,21 @@ a {
 #banner img {
 	width: 100%;
 }
+#banner .pagination {
+	position: absolute;
+	bottom: 10px;
+	width: 100%;
+	z-index: 101;
+}
+#banner .pagination li {
+	background: url("images/banner-bullet-sprite.png") no-repeat center 8px;
+	text-indent: -99999px;
+	height: 25px;
+	width: 25px;
+}
+#banner .pagination li.current {
+	background-position: center -17px;
+}
 #agrid {
 	height: 300px;
 	margin-top: 40px;
