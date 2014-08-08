@@ -11,9 +11,7 @@
 			<div id="happenings">
 				<h2>HAPPENINGS</h2>
 				<img src="assets/images/thumbs/thumb-5.png" alt="Roar for the stripes">
-				<h3>Roar for the stripes !!</h3>
-				<p>CATT presents a photography competition to celebrate the beauty and magnificence of our National Animal and India's wild heritage, The Tiger, on the occasion of Global Tiger Day (29th July, 2014).</p>
-				<p>Send in your best wild tiger photographs to <a href="mailto:reach@catt.org.in">reach@catt.org.in</a> and you get a chance to win CATT merchandise!</p>
+				<h3>Watch this space for CATT's upcoming activities!</h3>
 			</div>
 		</div>
 	</div>
