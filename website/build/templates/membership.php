@@ -1,8 +1,15 @@
 	<div id="membership" class="page w1000">
 		<h1>MEMBERSHIP</h1>
 		<div class="content">
-			<p>You can support CATT through exclusive membership program. </p>
-			<!--
+			<p>It is imperative that each and every individual in the neighborhood takes an oath to join hands to preserve our wildlife and come out of the conundrum that we exist in. It may be confusing to realize that the life in the wild is way more organized than the ones we lead where each species supports a dozen more but is now threatened by our reckless expansion.</p>
+			<p>Contribute for this cause as your support is much needed.</p>
+			<ul>
+				<li>Join us as a member</li>
+				<li>Participate in various field &amp; city based conservation activities</li>
+				<li>Help us in reaching out to more people &amp; spreading awareness</li>
+				<li>Donate us to support our activities.</li>
+				<li>Buy CATT - merchandise</li>
+			</ul>
 			<table>
 				<thead>
 					<tr>
@@ -24,7 +31,7 @@
 			<table>
 				<thead>
 					<tr>
-						<th colspan="2">Please find below the account details</th>
+						<th colspan="2">Account details</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -45,8 +52,12 @@
 						<td>SBIN0007982</td>
 					</tr>
 				</tbody>
-			</table> 
-			-->
-			<iframe id="memberShipForm" src="https://docs.google.com/forms/d/1Kmu-nHumR9uGZH55S9LkJXQA7B9sIHm5wNa5qFQMi4M/viewform?embedded=true" width="680" height="1850" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
+			</table>
+
+			<p>For membership programme, please transfer the membership fee to the above mentioned account and register <a href="./?p=membershipform">here</a>.</p>
+
+			<p>Please use the above mentioned account details for donation and write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
+
+			<p>For CATT -merchandise and any other queries please write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 		</div>		
 	</div>

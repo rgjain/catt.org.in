@@ -6,11 +6,11 @@
 					<p>Conservation Awareness Team Trust</p>
 				</div>
 			</a>
-			<a class="section" href="./?p=activities">
+			<a class="section" href="./?p=upcomingevents">
 				<img src="assets/images/thumbs/thumb-2.png">
 				<div class="detail">
 					<h2>EVENTS</h1>
-					<p>Check out the activities completed so far</p>
+					<p>Follow us here for our upcoming events</p>
 				</div>
 			</a>
 			<a class="section" href="./?p=membership">

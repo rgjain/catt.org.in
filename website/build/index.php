@@ -11,6 +11,14 @@
 
 			include_once 'templates/header.php';
 
+			if (!isset($p) || $p == null || empty($p)) {
+				include_once 'templates/banner.php';
+				include_once 'templates/vision.php';
+				include_once 'templates/home.php';
+			} else {
+				include_once 'templates/' . $p . '.php';
+			}
+/*
 			switch ($p) {
 				case 'aboutus':
 					include_once 'templates/aboutus.php';
@@ -39,6 +47,10 @@
 				case 'membership':
 					include_once 'templates/membership.php';
 					break;
+
+				case 'membershipform':
+					include_once 'templates/membershipform.php';
+					break;
 				
 				case 'supporters':
 					include_once 'templates/supporters.php';
@@ -52,12 +64,24 @@
 					include_once 'templates/wildindia.php';
 					break;
 				
+				case 'focusarea':
+					include_once 'templates/focusarea.php';
+					break;
+				
+				case 'ourmentor':
+					include_once 'templates/ourmentor.php';
+					break;
+
+				case 'upcomingevents':
+					include_once 'templates/upcomingevents.php';
+					break;
+
 				default:
 					include_once 'templates/banner.php';
 					include_once 'templates/vision.php';
 					include_once 'templates/home.php';
 					break;
-			}
+			}*/
 
 			include_once 'templates/footer.php';
 		?>

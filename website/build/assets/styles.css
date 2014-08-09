@@ -22,6 +22,9 @@ a {
 	color: #d65f0f;
 	text-decoration: none;
 }
+ul li {
+	padding: 5px 0;
+}
 #bg-slider {
 	background-color: rgba(255, 255, 255, 0);
 	background-position: top center;
@@ -88,6 +91,7 @@ a {
     -o-transition: background .5s;
     -ms-transition: background .5s;
     transition: background .5s;	
+    padding: 0;
 }
 #header #nav > li:hover {
 	background: rgba(18, 53, 13, .4);
@@ -101,6 +105,9 @@ a {
 	width: 160px;
 	background: #12350D;
 	box-shadow: 0 2px 20px #333;
+}
+#header #nav > li > ul > li {
+    padding: 0;
 }
 #header #nav > li > ul > li > a {
 	padding: 10px 15px;
@@ -216,6 +223,7 @@ a {
 	margin: 10px 0;
 	padding: 10px;
 	border-top: 2px solid #aaa;
+	border-bottom: 2px solid #aaa;
 	background: #fff;
 }
 .page h1 {
@@ -465,15 +473,11 @@ ul.event-item li .detail span strong {
 	font-family: inherit;
 	width: auto;
 }
-#membership .content {
-	height: 2314px;
-	overflow: hidden;
-}
 #supporters dl {
 	border-top: 1px solid #555;
 	margin-top: 20px;
 	padding-top: 20px;
 }
-#aboutus .content {
-	background: rgba(255, 255, 255, .7);
+#ourmentor h4, #focusarea h4 {
+	margin: 10px 0;
 }
