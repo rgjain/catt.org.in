@@ -71,7 +71,7 @@
 					<div>
 						One of our most active Member. He has participated in multiple field &amp; city based activities. He has helped to enhance CATT Team.
 					</div>
-					<img src="assets/images/profile/members/vinayak.png" alt="Girish K">
+					<img src="assets/images/profile/members/vinayak.png" alt="Vinayak Krishnamurthy">
 				</dd>
 
 				<dt>
@@ -90,6 +90,7 @@
 					<div>
 						Ananda is an avid Trekker with lot of wildlife enthusiasm. He helped us in conducting awareness campaign during VIBHA Dream Mile Run.
 					</div>
+					<img src="assets/images/profile/members/anandakumar.png" alt="Ananda Velluswamy">
 				</dd>
 
 				<dt>
@@ -99,7 +100,7 @@
 					<div>
 						He is an IT Specialist with love of Nature photography. Rojin has helped us in Tree plantation activity with Vikas Team.
 					</div>
-					<img src="assets/images/profile/members/rojin.png" alt="Girish K">
+					<img src="assets/images/profile/members/rojin.png" alt="Rojin">
 				</dd>
 
 				<dt>
@@ -109,6 +110,7 @@
 					<div>
 						He works for an IT Major but has avid passion for protection of wildlife. He has participated in multiple field activities &amp; special mention he helped us to complete Medical Camp successfully.
 					</div>
+					<img src="assets/images/profile/members/vijaykulkarni.png" alt="Vijay Kulkarni ">
 				</dd>
 
 				<dt>
@@ -118,6 +120,7 @@
 					<div>
 						A Student who loves wild &amp; full of enthusiasm. He is an active member of CATT &amp; participates in various activities.
 					</div>
+					<img src="assets/images/profile/members/gagangowda.png" alt="Rojin">
 				</dd>
 
 				<dt>
@@ -127,7 +130,52 @@
 					<div>
 						A native of Bandipur our real hero who ardent birder &amp; have been instrumental in our multiple field activities.
 					</div>
-					<img src="assets/images/profile/members/sreekanta.png" alt="Girish K">
+					<img src="assets/images/profile/members/sreekanta.png" alt="Sreekanta">
+				</dd>
+
+				<dt>
+					<h2>Amit Kayal </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/amitkayal.png" alt="Amit Kayal">
+				</dd>
+
+				<dt>
+					<h2>Devleena Bhattacharya </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/devleenabhattacharya.png" alt="Devleena Bhattacharya">
+				</dd>
+
+				<dt>
+					<h2>Kunal </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/kunal.png" alt="Kunal">
+				</dd>
+
+				<dt>
+					<h2>Pankaj Jain </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/pankajjain.png" alt="Pankaj Jain">
+				</dd>
+
+				<dt>
+					<h2>Sujata Nanda </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/sujatananda.png" alt="Sujata Nanda">
 				</dd>
 			</dl>
 		</div>		
