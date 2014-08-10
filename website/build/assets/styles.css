@@ -116,7 +116,7 @@ ul li {
 	color: #d65f0f;
 	text-align: left;
 }
-#header #nav > li:hover:before {
+#header #nav > li:hover:before, #header #nav > li a.active:before {
 	position: absolute;
 	width: 3px;
 	height: 100%;
@@ -164,6 +164,7 @@ ul li {
 	text-indent: -99999px;
 	height: 25px;
 	width: 25px;
+	padding: 0;
 }
 #banner .pagination li.current {
 	background-position: center -17px;
@@ -230,8 +231,8 @@ ul li {
 	color: #fff
 }
 .page .content p {
-	margin: 20px 0;
-	line-height: 22px;
+	margin: 25px 0;
+	line-height: 25px;
 }
 .page .content .intro {
 	border-bottom: 1px solid #555;
@@ -246,20 +247,21 @@ ul li {
 	margin: 10px 0;
 	color: #fff;
 }
-#aboutus .content .team-members ul {
+.content .team-members ul {
 	margin: 0;
 	padding: 0;
 	margin-top: 20px;
 	border-top: 1px solid #ddd;
 	padding-top: 20px;
 }
-#aboutus .content .team-members ul li {
+.content .team-members ul li {
 	display: inline-block;
 	vertical-align: top;
-	width: 160px;
+	width: 300px;
+	padding: 5px 10px;
 	text-align: center;
 }
-#aboutus .content .team-members ul li img {
+.content .team-members ul li img {
 	height: 130px;
 	padding: 3px;
 	border: 1px solid #eee;
@@ -267,7 +269,7 @@ ul li {
 	border-bottom-right-radius: 30px;
 	margin-bottom: 10px;
 }
-#aboutus .content .team-members ul li p {
+.content .team-members ul li p {
 	padding: 5px;
 	margin: 0;
 	line-height: normal;
@@ -480,4 +482,15 @@ ul.event-item li .detail span strong {
 }
 #ourmentor h4, #focusarea h4 {
 	margin: 10px 0;
+}
+#cattmerchandize #merch-images li {
+	list-style-type: none;
+	display: inline-block;
+	vertical-align: top;
+}
+#cattmerchandize #merch-images li img {
+	height: 240px;
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
 }

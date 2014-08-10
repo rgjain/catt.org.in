@@ -1,5 +1,5 @@
 	<div id="membership" class="page w1000">
-		<h1>MEMBERSHIP</h1>
+		<h1>BECOME THE VOICE OF THE JUNGLE</h1>
 		<div class="content">
 			<p>It is imperative that each and every individual in the neighborhood takes an oath to join hands to preserve our wildlife and come out of the conundrum that we exist in. It may be confusing to realize that the life in the wild is way more organized than the ones we lead where each species supports a dozen more but is now threatened by our reckless expansion.</p>
 			<p>Contribute for this cause as your support is much needed.</p>
@@ -8,7 +8,7 @@
 				<li>Participate in various field &amp; city based conservation activities</li>
 				<li>Help us in reaching out to more people &amp; spreading awareness</li>
 				<li>Donate us to support our activities.</li>
-				<li>Buy CATT - merchandise</li>
+				<li>Buy <a href="./?p=cattmerchandize" >CATT - Merchandise</a></li>
 			</ul>
 			<table>
 				<thead>
@@ -58,6 +58,6 @@
 
 			<p>Please use the above mentioned account details for donation and write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 
-			<p>For CATT -merchandise and any other queries please write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
+			<p>For <a href="./?p=cattmerchandize" >CATT - Merchandise</a> and any other queries please write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 		</div>		
 	</div>
