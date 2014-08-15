@@ -13,7 +13,6 @@
 				<li><a href="./?p=activities" <?php if ($p == "activities") { echo 'class="active"';} ?> ><span>ACTIVITIES</span></a></li>
 				<li><a href="./?p=members" <?php if ($p == "members") { echo 'class="active"';} ?> ><span>MEMBERS</span></a></li>
 				<li><a href="./?p=supporters" <?php if ($p == "supporters") { echo 'class="active"';} ?> ><span>SUPPORTERS</span></a></li>
-				<li><a href="./?p=gallery" <?php if ($p == "gallery") { echo 'class="active"';} ?> ><span>GALLERY</span></a></li>
 				<li>
 					<a href="./?p=membership" <?php if ($p == "membership") { echo 'class="active"';} ?> ><span>JOIN THE ROAR</span></a>
 					<ul>
