@@ -1,3 +1,20 @@
+jQuery.fn.animateAuto = function(prop, speed, appendTo, callback){
+	var elem, height, width;
+	return this.each(function(i, el){
+		el = jQuery(el), elem = el.clone().css({"height":"auto","width":"auto"}).appendTo(appendTo);
+		height = elem.css("height"),
+		width = elem.css("width"),
+		elem.remove();
+
+		if(prop === "height")
+			el.animate({"height":height}, speed, callback);
+		else if(prop === "width")
+			el.animate({"width":width}, speed, callback);  
+		else if(prop === "both")
+			el.animate({"width":width,"height":height}, speed, callback);
+	});  
+};
+
 $(function(){
 	if ($('#banner').length > 0) {
 		window.f = new flux.slider('#banner', {
@@ -33,4 +50,34 @@ $(function(){
 
 		$.ajax(ajaxData);
 	});
+
+	$(".more-less").click(function () {
+		var el = $(this),
+			parentEl = el.closest(".activity-item"),
+			isexpanded = false;
+
+		el.toggleClass("less");
+		parentEl.toggleClass("expanded");
+
+		isexpanded = el.hasClass("less");
+
+		if (isexpanded) {
+			parentEl.animateAuto("height", 300, "#activities .content");
+		} else {
+			parentEl.animate({"height" : 150}, 300);
+		}
+	});
+
+
+	if ($(".activity-images").length > 0) {
+		$('.activity-images').each(function() { // the containers for all your galleries
+			$(this).magnificPopup({
+				delegate: 'a', // the selector for gallery item
+				type: 'image',
+				gallery: {
+				  enabled:true
+				}
+			});
+		});
+	}
 });

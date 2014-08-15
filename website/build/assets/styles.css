@@ -300,7 +300,88 @@ ul li {
 .team-members dt h2 {
 	width: 800px;
 }
-#events .content {
+.activity-item {
+	border-top: 1px solid #ddd;
+	overflow: hidden;
+	padding-top: 10px;
+	position: relative;
+	height: 200px;
+}
+.activity-item.expanded:after {
+	display: none;
+}
+.activity-item:after {
+	position: absolute;
+	bottom: 0;
+	height: 50px;
+	background: linear-gradient(transparent, #fff);
+	content: " ";
+	width: 100%;
+	left: 0;
+}
+.activity-item:first-child {
+	border-top: none;
+}
+.content .activity-item p {
+	float: left;
+	width: 700px;
+	margin: 15px 0;
+	clear: both;
+}
+.content .activity-item ul {
+	clear: both;
+	list-style: none;
+}
+.content .activity-item ul li p, .content .activity-item ul li img {
+	display: inline-block;
+	float: none;
+	margin-right: 20px;
+	vertical-align: top;
+}
+.activity-item img {
+	margin: 10px 20px 0 0;
+	width: 200px;
+	float: right;
+}
+.more-less {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	height: 11px;
+	width: 20px;
+	background: url("images/banner-bullet-sprite.png") no-repeat center -67px;
+	z-index: 3;
+}
+.more-less.less {
+	background: url("images/banner-bullet-sprite.png") no-repeat center -77px;
+}
+.activity-images {
+	clear: both;
+	background: #f5f6f7;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	margin-top: 20px;
+}
+.activity-images h4 {
+	padding: 10px 0;
+	text-transform: uppercase;
+	text-align: center;
+}
+.activity-images .image-list {
+	overflow-x: auto;
+	white-space: nowrap;
+}
+.activity-images .image-list img{
+	margin: 0;
+}
+.activity-images a {
+	display: inline-block;
+	vertical-align: middle;
+	height: 120px;
+}
+.activity-images a img {
+	height: 100%;
+	display: block;
 	width: auto;
 }
 .page .content table {
