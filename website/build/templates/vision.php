@@ -8,10 +8,5 @@
 					<li>To raise awareness regarding the problems faced by our wildlife and our forests</li>
 				</ul>
 			</div>
-			<div id="happenings">
-				<h2>HAPPENINGS</h2>
-				<img src="assets/images/thumbs/thumb-5.png" alt="Roar for the stripes">
-				<h3>Watch this space for CATT's upcoming activities!</h3>
-			</div>
 		</div>
 	</div>

@@ -3,13 +3,13 @@
 				<img src="assets/images/thumbs/thumb-3.png">
 				<div class="detail">
 					<h2>WILD INDIA</h1>
-					<p>Conservation Awareness Team Trust</p>
+					<p>Information on Forests of india</p>
 				</div>
 			</a>
 			<a class="section" href="./?p=upcomingevents">
 				<img src="assets/images/thumbs/thumb-2.png">
 				<div class="detail">
-					<h2>EVENTS</h1>
+					<h2>UPCOMING EVENTS</h1>
 					<p>Follow us here for our upcoming events</p>
 				</div>
 			</a>

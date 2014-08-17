@@ -490,21 +490,20 @@ ul.event-item li .detail span strong {
 	z-index: 5;
 	margin-bottom: 20px;
 }
-#vision-statement {
-	display: inline-block;
-	width: 440px;
-	vertical-align: top;
-}
 #vision h2 {
 	text-align: center;
 	padding: 5px;
+	border-bottom: 1px solid #ddd;
+	background: #eee;
 }
 #vision-statement ul li {
 	text-align: center;
-	border-top: 1px solid #eee;
-	padding: 20px;
+	padding: 15px;
 	line-height: 24px;
 	list-style-type: none;
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
 }
 #happenings {
 	display: inline-block;
