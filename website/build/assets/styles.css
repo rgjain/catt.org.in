@@ -183,11 +183,15 @@ ul li {
 	border-bottom: 2px solid #ccc;
 	vertical-align: top;
 	color: #555;
+	height: 265px;
     -moz-transition: background .5s;
     -webkit-transition: background .5s;
     -o-transition: background .5s;
     -ms-transition: background .5s;
     transition: background .5s;
+}
+#agrid .section #event-info {
+	text-align: center;
 }
 #agrid .section:first-child {
 	margin-left: 0;
@@ -250,7 +254,7 @@ ul li {
 .content .team-members ul {
 	margin: 0;
 	padding: 0;
-	margin-top: 20px;
+	margin: 10px 0;
 	border-top: 1px solid #ddd;
 	padding-top: 20px;
 }
@@ -323,25 +327,26 @@ ul li {
 	border-top: none;
 }
 .content .activity-item p {
-	float: left;
-	width: 700px;
 	margin: 15px 0;
 	clear: both;
 }
 .content .activity-item ul {
 	clear: both;
-	list-style: none;
+	list-style: square;
 }
-.content .activity-item ul li p, .content .activity-item ul li img {
+.content .activity-item ul li p {
 	display: inline-block;
 	float: none;
-	margin-right: 20px;
+	margin: 0 20px 0 0;
 	vertical-align: top;
 }
-.activity-item img {
-	margin: 10px 20px 0 0;
-	width: 200px;
-	float: right;
+.activity-item .img {
+	margin: 10px auto;
+	display: table;
+}
+.activity-item .img img {
+	margin: 10px;
+	vertical-align: top;
 }
 .more-less {
 	position: absolute;

@@ -177,6 +177,15 @@
 					</div>
 					<img src="assets/images/profile/members/sujatananda.png" alt="Sujata Nanda">
 				</dd>
+
+				<dt>
+					<h2>Nirmalya Chakraborty </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/nirmalyachakraborty.png" alt="Nirmalya Chakraborty">
+				</dd>
 			</dl>
 		</div>		
 	</div>

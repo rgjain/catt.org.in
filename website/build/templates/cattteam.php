@@ -45,6 +45,13 @@
 						<p><a href="mailto:pratap.sikdar@gmail.com">pratap.sikdar@gmail.com</a></p>
 						<p>9972596272</p>
 					</li>
+
+					<li>
+						<!-- <img src="assets/images/profile/team/pratap.png" alt="Pratap Sikdar"> -->
+						<div><strong>Chandrasekhar Reddy</strong><br /> Trustee</div>
+						<!-- <p><a href="mailto:pratap.sikdar@gmail.com">pratap.sikdar@gmail.com</a></p> -->
+						<!-- <p>9972596272</p> -->
+					</li>
 				</ul>
 
 				<h3>Honorary Team Members</h3>
@@ -56,7 +63,7 @@
 
 					<li>
 						<img src="assets/images/profile/team/rupeshjain.png" alt="Rupesh Jain">
-						<div><strong>Rupesh Jain</strong><br /></div>
+						<div><strong>Rupesh Jain</strong><br />Rupesh got involved with CATT when it was going through its biggest challenge. He alone has built entire website for CATT & continues to support CATT in coming years. CATT will always remember his contribution towards organization.</div>
 					</li>
 				</ul>
 			</div>

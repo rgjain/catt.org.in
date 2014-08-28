@@ -11,6 +11,7 @@
 					<div>
 						CATT is very thankful to Mr. Kantharaju and the entire team of ACF, Mr. Maradimani,RFOs, Forest Watchers and other forest officials and staff members. This team of forest officials have been supporting and guiding us to conduct our conservation activities successfully.
 					</div>
+					<img src="assets/images/supporters/bandipur_logo.png" alt="Bandipur Tiger Reserve">
 				</dd>
 
 				<dt>
@@ -44,6 +45,14 @@
 				</dd>
 
 				<dt>
+					<h2>Navanil Patra</h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+						Managing Director, Patra &amp; Chanda Mfg. &amp; Eng. (india) Pvt. Ltd. Leader in Industrial Supply, Diesel Engine &amp; Electric Engine in Howrah Manufacture and supply of locomotive spare parts, diesel engine, wdgs, pore. CATT has been thankful to Navanil Patra &amp; his company to support us.
+					</div>
+				</dd>
+				<dt>
 					<h2>Other Friends</h2>
 				</dt>	
 				<dd class="clearfix">
@@ -51,6 +60,7 @@
 						Friends who have contributed their photographs towards building CATT website are Nived C K and  Praveen Byrappa.
 					</div>
 				</dd>
+				
 			</dl>			
 		</div>		
 	</div>

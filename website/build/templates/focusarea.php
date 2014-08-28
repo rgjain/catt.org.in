@@ -18,6 +18,10 @@
 			<li>Crowd Management at the temples situated in the national parks</li>
 			<li>Removal of invasive weeds and restoration of degraded forest land</li>
 			<li>De-silting of water bodies in forests</li>
+			<li>Enforcement</li>
+			<li>Human Animal conflict Mitigation</li>
+			<li>Data Collection</li>
+			<li>Tribal Welfare</li>
 		</ul>
 	</div>
 </div>
