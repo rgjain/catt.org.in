@@ -52,7 +52,7 @@
 								} else {
 						?>
 									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<div class="img"><img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " /></div>
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 									</a>
 						<?php
 								}
@@ -103,7 +103,7 @@
 								} else {
 						?>
 									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<div class="img"><img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " /></div>
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 									</a>
 						<?php
 								}
@@ -154,7 +154,7 @@
 								} else {
 						?>
 									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<div class="img"><img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " /></div>
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 									</a>
 						<?php
 								}
@@ -198,7 +198,7 @@
 								} else {
 						?>
 									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<div class="img"><img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " /></div>
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 									</a>
 						<?php
 								}
@@ -237,7 +237,7 @@
 								} else {
 						?>
 									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<div class="img"><img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " /></div>
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 									</a>
 						<?php
 								}
@@ -274,7 +274,7 @@
 								} else {
 						?>
 									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<div class="img"><img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " /></div>
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 									</a>
 						<?php
 								}
