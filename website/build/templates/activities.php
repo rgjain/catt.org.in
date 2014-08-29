@@ -9,7 +9,7 @@
 				<h2>Litter Clearing Drive</h2>
 
 				<?php
-					$thisActivityDir = "lcd";
+					$thisActivityDir = "Litter Clearing Drive";
 					$thisActivityDirFull = $basedir . $thisActivityDir;
 					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
 					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
@@ -67,7 +67,7 @@
 				<h2>Medical Camp</h2>
 
 				<?php
-					$thisActivityDir = "mc";
+					$thisActivityDir = "Medical Camp";
 					$thisActivityDirFull = $basedir . $thisActivityDir;
 					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
 					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
@@ -118,7 +118,7 @@
 				<h2>Conservation Awareness Campaigns</h2>
 
 				<?php
-					$thisActivityDir = "cac";
+					$thisActivityDir = "Conservation Awareness Campaign";
 					$thisActivityDirFull = $basedir . $thisActivityDir;
 					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
 					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
@@ -169,7 +169,7 @@
 				<h2>Crowd Management</h2>
 
 				<?php
-					$thisActivityDir = "cm";
+					$thisActivityDir = "Crowd Management";
 					$thisActivityDirFull = $basedir . $thisActivityDir;
 					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
 					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
@@ -213,7 +213,7 @@
 				<h2>Forest Fire Prevention Program</h2>
 
 				<?php
-					$thisActivityDir = "ffpp";
+					$thisActivityDir = "Forest Fire Prevention Program";
 					$thisActivityDirFull = $basedir . $thisActivityDir;
 					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
 					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
@@ -252,7 +252,7 @@
 				<h2>Foot Patrolling</h2>
 
 				<?php
-					$thisActivityDir = "fp";
+					$thisActivityDir = "Foot Patrolling";
 					$thisActivityDirFull = $basedir . $thisActivityDir;
 					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
 					$actualImagesDir = $basedir . $thisActivityDir . "/w800";

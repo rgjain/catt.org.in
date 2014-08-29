@@ -47,10 +47,10 @@
 					</li>
 
 					<li>
-						<!-- <img src="assets/images/profile/team/pratap.png" alt="Pratap Sikdar"> -->
+						<img src="assets/images/profile/team/chandrasekharreddy.png" alt="Pratap Sikdar">
 						<div><strong>Chandrasekhar Reddy</strong><br /> Trustee</div>
-						<!-- <p><a href="mailto:pratap.sikdar@gmail.com">pratap.sikdar@gmail.com</a></p> -->
-						<!-- <p>9972596272</p> -->
+						<p><a href="mailto:chandrasekharreddy514@gmail.com">chandrasekharreddy514@gmail.com</a></p>
+						<p>9900095696</p>
 					</li>
 				</ul>
 
