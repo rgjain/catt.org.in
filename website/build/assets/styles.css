@@ -587,10 +587,14 @@ ul.event-item li .detail span strong {
 #gallery .album {
 	display: inline-block;
 	margin: 50px;
+	vertical-align: top;
 }
 #gallery .album .album-link {
 	display: block;
 	text-align: center;
+	text-transform: uppercase;
+	height: 220px;
+	width: 220px;
 }
 #gallery .album .album-image {
 	height: 220px;
@@ -606,4 +610,12 @@ ul.event-item li .detail span strong {
 	bottom: 0;
 	left: 0;
 	margin: auto;
+}
+#gallerysub .activity-images {
+	background: none;
+	border: none;
+}
+#gallerysub .activity-images a {
+	display: inline-block;
+	margin: 16px;
 }

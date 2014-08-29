@@ -13,7 +13,7 @@
 					if (!($dirName == "." || $dirName == "..")) {
 					?>
 						<div class="album">
-							<a class="album-link" href="javascript:void(0)">
+							<a class="album-link" href="./?p=gallerysub&sp=<?php echo $dirName; ?>">
 								<div class="album-image">
 									<img src="<?php echo $albumImagePath; ?>" />
 								</div>
