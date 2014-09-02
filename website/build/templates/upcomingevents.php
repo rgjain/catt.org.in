@@ -1,6 +1,7 @@
 	<div id="upcomingevents" class="page w1000">
 		<h1>CATT's UPCOMING EVENTS</h1>
 		<div class="content">
+			<img src="assets/images/wildIndia.png" />
 			<h2>Wild India &amp; its Challenges</h2>
 			<strong>CATT - Workshop on 6th September, 2014</strong>
 			<span>at</span>

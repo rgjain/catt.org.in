@@ -4,7 +4,7 @@
 			<div class="team-members">
 				<h3>Trustee Members</h3>
 				<ul>
-					<li>
+					<li class="w960">
 						<img src="assets/images/profile/team/saradhi.png" alt="Saradhi Roy">
 						<div><strong>Saradhi Roy</strong><br /> President</div>
 						<p><a href="mailto:saradhi.roy@gmail.com">saradhi.roy@gmail.com</a></p>

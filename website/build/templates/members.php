@@ -186,6 +186,33 @@
 					</div>
 					<img src="assets/images/profile/members/nirmalyachakraborty.png" alt="Nirmalya Chakraborty">
 				</dd>
+
+				<dt>
+					<h2>Girish Gumbalapuram </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/girishgumbalapuram.png" alt="Girish Gumbalapuram">
+				</dd>
+
+				<dt>
+					<h2>Praveen Byrappa </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/praveenbyrappa.png" alt="Praveen Byrappa">
+				</dd>
+
+				<dt>
+					<h2>Mukesh Prabhu </h2>
+				</dt>	
+				<dd class="clearfix">
+					<div>
+					</div>
+					<img src="assets/images/profile/members/mukeshprabhu.png" alt="Mukesh Prabhu">
+				</dd>
 			</dl>
 		</div>		
 	</div>
