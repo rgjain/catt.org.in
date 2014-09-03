@@ -281,27 +281,26 @@ ul li {
 .team-members .content p {
 	margin: 10px 0;
 }
-.team-members dd {
-	border-bottom: 1px solid #eee;
-	margin-bottom: 20px;
-	padding-bottom: 20px;
+#members ul {
+	margin: 0;
 }
-.team-members dd div {
+#members li {
+	width: 470px;
+	display: inline-block;
+	list-style-type: none;
+	vertical-align: top;
+	padding: 10px;
+	height: 170px;
+	margin-left: -3px;
+}
+#members li img {
 	float: left;
-	width: 800px;
-}
-.team-members dd img {
-	float: right;
-	width: 100px;
+	height: 100px;
 	padding: 3px;
 	border: 1px solid #eee;
 	border-top-left-radius: 30px;
 	border-bottom-right-radius: 30px;
-	margin-top: -20px;
-	margin-bottom: 20px;
-}
-.team-members dt h2 {
-	width: 800px;
+	margin-right: 10px;
 }
 .activity-item {
 	border-top: 1px solid #ddd;
