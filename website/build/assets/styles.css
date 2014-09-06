@@ -251,6 +251,28 @@ ul li {
 	margin: 10px 0;
 	color: #fff;
 }
+.team-members dd {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.team-members dd div {
+	float: left;
+	width: 800px;
+}
+.team-members dd img {
+	float: right;
+	width: 100px;
+	padding: 3px;
+	border: 1px solid #eee;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+.team-members dt h2 {
+	width: 800px;
+}
 .content .team-members ul {
 	margin: 0;
 	padding: 0;
