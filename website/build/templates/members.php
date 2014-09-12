@@ -8,42 +8,42 @@
 					<img src="assets/images/profile/members/sureshbabu.png" alt="Suresh Babu">
 					<h2>Suresh Babu</h2>
 					<div>
-						By profession a prominent businessman, by passion a wildlife enthusiast is one of the most active volunteers for CATT. He volunteered in Litter Clearing Drive 4 &amp; 5, Foot Patrolling 1 and Field support in Bandipur national park. He has also attended a Workshop on Eradication of Invasive Weeds and Habitat Restoration in Bandipur Tiger Reserve. Suresh was part of Tiger Census Phase 1 conducted by Karnataka Forest Department and assigned to Kudremukha National Park.
+						 A wildlife passionate to the core. He is most active member of CATT.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/deepakshankar.png" alt="Deepak Shankar">
 					<h2>Deepak Shankar</h2>
 					<div>
-						Deepak is a financial analyst, a wildlife enthusiast and a Managing Committee member of Banerghatta Rehabilitation Center (BRC), Bangalore. He was one of the volunteers for CATT's first field activity i.e. Forest Fire Awareness Programme in Bandipur Tiger Reserve. He participated in Tiger Census Phase 1 conducted by Karnataka Forest Department and was assigned to Kudremukha National Park.
+						A Finance Analyst by profession but has enormous love for the wild.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/shyamal.png" alt="Shyamal Majumder">
 					<h2>Shyamal Majumder</h2>
 					<div>
-						A software professional Shyamal is an avid trekker, rock climber and a wildlife enthusiast. He is the first member of CATT and volunteered in CATT's third Litter Clearing Drive which was carried out at Talacauvery Wildlife Sanctuary, Coorg.
+						 A Rock climber / Trekker also a large heart person always involved in conservation.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/achintya.png" alt="Achintya Kundu">
 					<h2>Achintya Kundu</h2>
 					<div>
-						Achintya is a student in IISC, Bangalore and an avid trekker. He draws attention into wildlife conservation from the experiences while trekking in different part of Western Ghat. He volunteered in CATT's third Litter Clearing Drive and field support in Bandipur Tiger Reserve.
+						A student with lot of love for wild.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/govindgorur.png" alt="Govind Gorur">
 					<h2>Govind Gorur</h2>
 					<div>
-						Business Analyst by profession, Govind is an amature photographer, a birder and an avid trekker. He has been roaming around Himalayas and jungles &amp; hills of Western Ghat for several years. This drove him to contribute towards wildlife conservation. He volunteered in field support in Bandipur Tiger Reserve. He participated in Tiger Census Phase 1 conducted by Karnataka Forest Department and was assigned to Kudremukha National Park.
+						A photographer by passion loves to actively participate in conservation.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/girish.png" alt="Girish K">
 					<h2>Girish K</h2>
 					<div>
-						Girish, a techie by profession but a passionate birder, an amature photographer and an expert mountaineer is one of the self motivated and most active member of CATT. He volunteered in field support in Bandipur Tiger Reserve. He contributed lot of photographs towards CATT website.
+						Techie by job but avid birder &amp; loves to work towards conservation.
 					</div>
 				</li>
 				<li>
@@ -54,10 +54,10 @@
 					</div>
 				</li>
 				<li>
-					<img src="assets/images/profile/members/vinayak.png" alt="Vinayak Krishnamurthy">
+					<img src="assets/images/profile/members/sriramprabhakar.png" alt="Sriram Prabhakar">
 					<h2>Sriram Prabhakar</h2>
 					<div>
-						Sriram by profession a HR expert and by passions a wildlife enthusiast, is one of the most prominent volunteers for CATT. He has participated in one of the Eco treks and volunteered in CATT's first Litter Clearing Drive in Bandipur Tiger Reserve.
+						A conservationist at heart loves to achieve tangible results for conservation.
 					</div>
 				</li>
 				<li>
@@ -99,65 +99,65 @@
 					<img src="assets/images/profile/members/amitkayal.png" alt="Amit Kayal">
 					<h2>Amit Kayal</h2>
 					<div>
-					
+						A core member of city based awareness team & a learner of wilderness.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/devleenabhattacharya.png" alt="Devleena Bhattacharya">
 					<h2>Devleena Bhattacharya</h2>
 					<div>
-					
+						Conservation enthusiast who loves to be with the nature.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/kunal.png" alt="Kunal">
 					<h2>Kunal</h2>
 					<div>
-					
+						A Thinker with action plan loves to be in wilderness. Corbett being his favourite.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/pankajjain.png" alt="Pankaj Jain">
 					<h2>Pankaj Jain</h2>
 					<div>
-					
+						A Nagarhole lover advocate by profession.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/sujatananda.png" alt="Sujata Nanda">
 					<h2>Sujata Nanda</h2>
 					<div>
+						Back Bone of city based awareness team &amp; CATT Newsletter.
 					</div>
-					
 				</li>
 				<li>
 					<img src="assets/images/profile/members/nirmalyachakraborty.png" alt="Nirmalya Chakraborty">
 					<h2>Nirmalya Chakraborty</h2>
 					<div>
-					
+						A Proven conservationist leading CATT Newsletter publication.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/girishgumbalapuram.png" alt="Girish Gumbalapuram">
 					<h2>Girish Gumbalapuram</h2>
 					<div>
-					
+						A conservationist in heart had donated jackets in nagarhole to forest guards.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/praveenbyrappa.png" alt="Praveen Byrappa">
 					<h2>Praveen Byrappa</h2>
 					<div>
-					
+						An Ace photographer with huge experience of wilderness. Snakes & Frogs are favorite subject.
 					</div>
 				</li>
 				<li>
 					<img src="assets/images/profile/members/mukeshprabhu.png" alt="Mukesh Prabhu">
 					<h2>Mukesh Prabhu</h2>
 					<div>
-					
+						An active member of City based awareness team who also loves to participate in field activities.
 					</div>
 				</li>
 			</ul>
-		</div>		
+		</div>
 	</div>
