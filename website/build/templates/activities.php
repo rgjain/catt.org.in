@@ -17,10 +17,10 @@
 				?>
 
 				<div>
-					<p>The litter clearing drive is one of the many activities that is envisaged by CATT in helping to conserve wildlife. As of today, our forests and the area surrounding it are defaced by the litter and garbage left behind by the tourists and pilgrims. The amount of detritus that is strewn around, prove to be detrimental to the fragile ecosystem. Each acre of the forest land is covered by thousands if not millions of bits of plastic which could be effectively recycled. 
+					<p>The litter clearing drive is one of the many activities that is envisaged by CATT in helping to conserve wildlife. As of today, our forests and the area surrounding it are defaced by the litter and garbage left behind by the tourists and pilgrims. The amount of detritus that is strewn around, prove to be detrimental to the fragile ecosystem. Each acre of the forest land is covered by thousands if not millions of bits of plastic which could be effectively recycled.
 					</p>
 					<div class="img"><img src="<?php echo $thisActivityDirFull . "/001.jpg"; ?>"></div>
-					
+
 					<p>The CATT members regularly organize litter clearing drives where our volunteers cover long stretches of forest land along roads clearing litter and lend a helping hand to the forest department to maintain the serenity in our pristine patches of forests. Our goal is to have litter free forests.</p>
 					<p>In the past six months, CATT has rid several square kilometers of forest land around various ranges of Bandipur National Park and Talacauvery Wildlife Sanctuary, and what CATT has achieved is quite a feat. </p>
 					<ul>
@@ -40,8 +40,8 @@
 							<p>5 Bags of litter and several other no-biodegradables were collected from the Gopalaswamy Betta Range of the Bandipur National Park for disposal on a weekend. Again these are the dumps by pilgrims, tourists and other visitors.</p>
 							<div class="img"><img src="<?php echo $thisActivityDirFull . "/005.jpg"; ?>"></div>
 						</li>
-					</ul>				
-<!-- 
+					</ul>
+<!--
 					<div class="activity-images">
 						<h4>Event Gallery</h4>
 						<div class="image-list">
@@ -93,8 +93,8 @@
 						<li>Provided with free medicines.</li>
 						<li>Taught basic exercises for muscle and bone strengthening.</li>
 						<li>Followed up through the volunteers.</li>
-					</ul>				
-<!-- 
+					</ul>
+<!--
 					<div class="activity-images">
 						<h4>Event Gallery</h4>
 						<div class="image-list">
@@ -147,7 +147,7 @@
 						<img src="<?php echo $thisActivityDirFull . "/006.jpg"; ?>">
 					</div>
 					<p>The Vibha Dream Run, witnessed CATT members pushing through various needs of the forests among the corporate circles and the great deal of help it could get from them. The activity involved, volunteers reaching out to a number of people to harness the support required and to impart the same values which fuels us when it comes to conservation.</p>
-<!-- 
+<!--
 					<div class="activity-images">
 						<h4>Event Gallery</h4>
 						<div class="image-list">
@@ -193,7 +193,7 @@
 					<div class="img"><img src="<?php echo $thisActivityDirFull . "/003.jpg"; ?>"></div>
 					<p>Dead fish, after it got caught in a gunny sack left behind by pilgrims at a water-hole inside the forest, during the religious festival. This was discovered when CATT- Volunteers were clearing the water-hole of all such litter.</p>
 					<div class="img"><img src="<?php echo $thisActivityDirFull . "/004.jpg"; ?>"></div>
-<!-- 
+<!--
 					<div class="activity-images">
 						<h4>Event Gallery</h4>
 						<div class="image-list">
@@ -234,7 +234,7 @@
 					<p>The wildfire which had started on 13/03/2014, in Bandipur National Park, turned over 1000 acres of these beautiful forests into ashes. The type of fire which had engulfed these forests was "crown" fire which spread from tree-top to tree-tops. In spite of our best efforts, CATT Team could only reach the scene of this tragedy on the next day, but we continued to provide support to Forest Department to put out the fire.</p>
 					<p>We have not heard of or seen any large-animal deaths due to the Inferno.</p>
 					<p>There were 2 major forest fires during this period where CATT volunteers helped the forest department by doing fire-line monitoring and acting as fire-watchers to look out for fires.</p>
-<!-- 
+<!--
 					<div class="activity-images">
 						<h4>Event Gallery</h4>
 						<div class="image-list">
@@ -273,7 +273,48 @@
 					<p>The assiduous work of the forest department has made the forest reserves in Karnataka to be one of the best protected reserves in the country and the home to one of the largest population of tigers. This is achieved by the hard work. The trained forest guards and watchers patrol the rough terrain of dense forests by foot to remove snares, confiscate illegal timber, dismantle poachers’ camps, halt illegal land encroachment and rescue captured wildlife. They also patrol various beats by jeep to guard the forest day and night.</p>
 					<p>Foot patrolling is a basic and important activity that is carried out regularly by the forest guards and watchers who often find it difficult to cover the entire range in terms of certain aspects. CATT joins the team of forest staff to carry out menial foot patrols in the jungle.</p>
 					<p>CATT assisted the forest department of Bandipur National Park in foot patrolling for tracking an elephant which had strayed out of Bhadra and required immediate action to prevent any animal-human conflict. Unfortunately, the radio collar being used malfunctioned and the forest department had to resort to manual searching. CATT members along with two forest guards patrolled for almost 15 kilometers in search for the elephant.</p>
-<!-- 
+<!--
+					<div class="activity-images">
+						<h4>Event Gallery</h4>
+						<div class="image-list">
+						<?php
+							for ($i=0; $i < count($thisActivityImages); $i++) {
+								$imgFileName = $thisActivityImages[$i];
+								if ($imgFileName == "." || $imgFileName == "..") {
+
+								} else {
+						?>
+									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
+										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
+									</a>
+						<?php
+								}
+							}
+						?>
+						</div>
+					</div>
+ -->
+				</div>
+			</div>
+			<div class="activity-item">
+				<a class="more-less" href="javascript:void(0)">&nbsp;</a>
+				<h2>Wild India &amp; it's Challenges</h2>
+
+				<?php
+					$thisActivityDir = "Wild India and it's Challenges";
+					$thisActivityDirFull = $basedir . $thisActivityDir;
+					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
+					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
+					$thisActivityImages = scandir($thumbImagesDir);
+				?>
+
+				<div>
+					<p>A weekend when most of us take some time off to relax and drive down to the nearest mall, there were some who had something better.... A group of enthusiasts with visible alacrity desperate to quench their thirst for wildlife protection had gathered at the fourth floor of Jain College, Palace Road for a common cause.</p>
+					<p>Some were veterans with years of experience in the field eager to impart the knowledge gained through years of hard work and conservation while some were keen on absorbing it and the rest were getting started for a WILD INDIA and IT'S CHALLENGES. A workshop organized to introduce members and other enthusiasts to the nitty-gritty world of wildlife poaching in India were made well versed with "what's happening around us".</p>
+					<p>WILD INDIA and IT'S CHALLENGES saw Jose Louies, Assistant Manager - Enforcement, Assistance and Law at Wildlife Trust of India engross the anxious audience with real life experiences and the backdrops which come with it as an anti-poaching expert in the PELT division. Jose, who took a U-turn from his IT world to realize his dream of protecting wildlife gave useful tips with amazing insights into a world of wildlife trade that is so connected, established, modernized and twisted that the enforcement authorities find it difficult to tackle poaching and all the more important for conservationists to join hands to curb this nexus which is spiraling out of control. The disaster which is impending on our forests is man - made and man alone can control it before nature takes its course.</p>
+					<p>The overwhelming experience brought the members together with an enforced zeal to fight harder and conserve better, thanks to the effort put in by Jose Louies.</p>
+					<p>The workshop sent us back to our school days to remind us of an important fundamental duty: "to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures"</p>
+<!--
 					<div class="activity-images">
 						<h4>Event Gallery</h4>
 						<div class="image-list">
