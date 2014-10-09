@@ -270,7 +270,7 @@
 				?>
 
 				<div>
-					<p>The assiduous work of the forest department has made the forest reserves in Karnataka to be one of the best protected reserves in the country and the home to one of the largest population of tigers. This is achieved by the hard work. The trained forest guards and watchers patrol the rough terrain of dense forests by foot to remove snares, confiscate illegal timber, dismantle poachers’ camps, halt illegal land encroachment and rescue captured wildlife. They also patrol various beats by jeep to guard the forest day and night.</p>
+					<p>The assiduous work of the forest department has made the forest reserves in Karnataka to be one of the best protected reserves in the country and the home to one of the largest population of tigers. This is achieved by the hard work. The trained forest guards and watchers patrol the rough terrain of dense forests by foot to remove snares, confiscate illegal timber, dismantle poachers' camps, halt illegal land encroachment and rescue captured wildlife. They also patrol various beats by jeep to guard the forest day and night.</p>
 					<p>Foot patrolling is a basic and important activity that is carried out regularly by the forest guards and watchers who often find it difficult to cover the entire range in terms of certain aspects. CATT joins the team of forest staff to carry out menial foot patrols in the jungle.</p>
 					<p>CATT assisted the forest department of Bandipur National Park in foot patrolling for tracking an elephant which had strayed out of Bhadra and required immediate action to prevent any animal-human conflict. Unfortunately, the radio collar being used malfunctioned and the forest department had to resort to manual searching. CATT members along with two forest guards patrolled for almost 15 kilometers in search for the elephant.</p>
 <!--
@@ -299,14 +299,6 @@
 			<div class="activity-item">
 				<a class="more-less" href="javascript:void(0)">&nbsp;</a>
 				<h2>Wild India &amp; it's Challenges</h2>
-
-				<?php
-					$thisActivityDir = "Wild India and it's Challenges";
-					$thisActivityDirFull = $basedir . $thisActivityDir;
-					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
-					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
-					$thisActivityImages = scandir($thumbImagesDir);
-				?>
 
 				<div>
 					<p>A weekend when most of us take some time off to relax and drive down to the nearest mall, there were some who had something better.... A group of enthusiasts with visible alacrity desperate to quench their thirst for wildlife protection had gathered at the fourth floor of Jain College, Palace Road for a common cause.</p>
