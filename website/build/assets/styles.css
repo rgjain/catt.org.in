@@ -427,7 +427,7 @@ ul li {
 .page .content table tr:nth-child(odd) {
 	background: #fff;
 }
-.page ul {
+.page ul, .page ol {
 	margin-left: 30px;
 }
 ul.event-item {

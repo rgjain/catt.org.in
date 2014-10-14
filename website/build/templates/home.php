@@ -7,7 +7,7 @@
 				</div>
 			</a>
 			<a class="section" href="./?p=upcomingevents">
-				<img src="assets/images/thumbs/thumb-6.png">
+				<img src="assets/images/thumbs/thumb-7.png">
 				<div class="detail">
 					<h2>UPCOMING EVENTS</h2>
 				</div>
