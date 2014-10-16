@@ -18,7 +18,7 @@
 				<tr><td>Event Name</td><td>CATT - Lantena Control Management</td></tr>
 				<tr><td>Chief Guest</td><td> Mr. Kantharaju CCF Bandipur TR</td></tr>
 				<tr><td>Guest Speaker</td><td> Mr. Tarsh Thekaekara from The Shola Trust</td></tr>
-				<tr><td>Date</td><td>08/11/2014 - 09/11/2014</td></tr>
+				<tr><td>Date</td><td>06/12/2014 - 07/12/2014</td></tr>
 				<tr><td>Location</td><td> Bandipur TR</td></tr>
 				<tr><td>Stay</td><td> Bandipur Dormitory</td></tr>
 				<tr><td>Participants</td><td> CATT Members + Very Limited Non Members</td></tr>
