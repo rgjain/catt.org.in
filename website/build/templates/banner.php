@@ -11,7 +11,7 @@
 			<img src="assets/images/banner/w1000x500/bnr-img-a-10.png" />
 		</div>
 		<div id="highlights" class="w1000">
-			<h4>HIGHLIGHT</h4>
+			<h4>HIGHLIGHTS</h4>
 			<ul>
 				<li><a href="assets/images/highlights/tr-free-checkup.jpg">Tiger Reserve Staff gets free checkup</a></li>
 			</ul>
