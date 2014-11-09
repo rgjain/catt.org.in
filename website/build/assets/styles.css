@@ -490,7 +490,6 @@ ul.event-item li .detail span strong {
 }
 #vision {
 	width: 1040px;
-	margin-top: 40px;
 	padding: 20px 0 10px;
 	position: relative;
 }
@@ -648,4 +647,21 @@ ul.event-item li .detail span strong {
 }
 .w960 {
 	width: 960px !important;
+}
+#highlights {
+	background: #fff;
+	position: relative;
+	margin: 20px auto 0px auto;
+}
+#highlights h4 {
+	background: #ccc;
+	padding: 10px;
+	display: inline-block;
+	vertical-align: middle;
+}
+#highlights ul {
+	list-style: none;
+	margin-left: 10px;
+	display: inline-block;
+	vertical-align: middle;
 }

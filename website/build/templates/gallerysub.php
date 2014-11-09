@@ -17,7 +17,7 @@
 					$imgFileName = $thisActivityImages[$i];
 					if (!($imgFileName == "." || $imgFileName == "..")) {
 					?>
-						<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
+						<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " >
 							<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
 						</a>
 					<?php

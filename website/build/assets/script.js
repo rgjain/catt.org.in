@@ -68,14 +68,25 @@ $(function(){
 		}
 	});
 
-
 	if ($(".activity-images").length > 0) {
-		$('.activity-images').each(function() { // the containers for all your galleries
+		$(".activity-images").each(function() {
 			$(this).magnificPopup({
-				delegate: 'a', // the selector for gallery item
+				delegate: 'a',
 				type: 'image',
 				gallery: {
-				  enabled:true
+					enabled:true
+				}
+			});
+		});
+	}
+	
+	if ($("#highlights").length > 0) {
+		$("#highlights").each(function() {
+			$(this).magnificPopup({
+				delegate: 'a',
+				type: 'image',
+				gallery: {
+					enabled:true
 				}
 			});
 		});
