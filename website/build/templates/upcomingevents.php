@@ -26,26 +26,26 @@
 			</table>
 			<p><strong>Agenda:</strong></p>
 			<table cellspacing="0" cellpadding="0" border="0">
-				<tr><th>08/11/2014</th></tr>
+				<tr><th>06/12/2014</th></tr>
 				<tr><td>1.Leave Bangalore</td><td> 05.00 AM </td></tr>
-				<tr><td>2.Reach Bandipur &amp; Check In</td><td> 10.00 AM</td></tr>
-				<tr><td>3.Re Group for Lunch</td><td> 12.30 - 13.30 PM</td></tr>
-				<tr><td>4.Welcome of Shri.Kantharaju CCF Bandipur TR</td><td> 14.00 - 14.30 PM</td></tr>
-				<tr><td>5.Introduction to Bandipur TR / Ranges of Bandipur TR / Other NP in Karnataka</td><td> 14.30 - 15.30 PM </td></tr>
-				<tr><td>6.Special Session on Lantena &amp; its Control</td><td> 15.30 - 16.30 PM</td></tr>
-				<tr><td>7.Visit to Jungle Scape &amp; Tea</td><td> 16.30 - 17.30 PM</td></tr>
-				<tr><td>8.Get Fresh &amp; Regrouping @ Bandipur </td><td> 18.00 - 19.00 PM</td></tr>
-				<tr><td>9.Documentary</td><td> 19.00 - 20.00 PM</td></tr>
-				<tr><td>10.Dinner</td><td>20.00 - 21.00 PM</td></tr>
-				<tr><td>11.Sign Out</td><td></td></tr>
-				<tr><th>09/11/2014</th></tr>
+				<tr><td>2.Reach Bandipur &amp; Check In</td><td> 10.00 AM </td></tr>
+				<tr><td>3.Re Group for Lunch</td><td> 12.30 - 13.30 PM </td></tr>
+				<tr><td>4.Welcome of Shri.Kantharaju CCF Bandipur TR - Speaker- Shri.Kantharaju CCF Bandipur</td><td>14.00 - 14.30 PM </td></tr>
+				<tr><td>5.Special Session on Lantena &amp; its Control - Speaker: Mr.Girish Sampath (The Shola Trust) </td><td> 14.30 - 16.00 PM </td></tr>
+				<tr><td>6.Introduction to Bandipur TR / Ranges of Bandipur TR / Other NP in Karnataka - Speaker: Sriharsha (CATT Member) </td><td> 16.00 - 17.00 PM </td></tr>
+				<tr><td>7.Census / Data Collection: Field Experience - Speaker - Sriharsha (CATT Member)</td><td>17.00 - 18.00 PM </td></tr>
+				<tr><td>8.Get Fresh &amp; Regrouping @ Bandipur </td><td> 18.00 - 19.00 PM </td></tr>
+				<tr><td>8.Documentary</td><td> 19.00 - 20.00 PM </td></tr>
+				<tr><td>10.Dinner</td><td>20.00 - 21.00 PM </td></tr>
+				<tr><td>11.Sign Out.</td><td>&nbsp;</td></tr>
+				<tr><th>07/12/2014</th></tr>
 				<tr><td>1.One Safari</td><td> 06.30 - 7.30 AM</td></tr>
-				<tr><td>2.Get Fresh &amp; Breakfast</td><td> 07.30 - 09.00 AM</td></tr>
-				<tr><td>3.Demonstration on Lantena Control </td><td>09.00 - 10.00 AM</td></tr>
-				<tr><td>4.Field Activities</td><td> 10.00 AM - 12.00 PM </td></tr>
-				<tr><td>5.Review Question &amp; Answer on Theoretical / Field Exposure</td><td> 12.30 - 13.30 PM</td></tr>
-				<tr><td>6.Lunch</td><td> 13.30 - 14.30 PM</td></tr>
-				<tr><td>7.Sign Out</td><td> Return to Bangalore.</td></tr>
+				<tr><td>2.Get Fresh &amp; Breakfast</td><td> 07.30 - 09.30 AM</td></tr>
+				<tr><td>3.Visit Jungle Scape &amp; Demonstration on Lantena Control </td><td>09.30 - 10.30 AM.</td></tr>
+				<tr><td>4.Field Activities</td><td> 10.30 AM - 12.30 PM</td></tr>
+				<tr><td>5.Review Question &amp; Answer on Theoretical / Field Exposure</td><td> 12.30 - 13.00 PM</td></tr>
+				<tr><td>6.Lunch</td><td> 13.00 - 14.00 PM</td></tr>
+				<tr><td>7.Sign Out - Return to Bangalore.</td><td>&nbsp;</td></tr>
 			</table>
 
 			<p><strong>Note: </strong></p>

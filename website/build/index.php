@@ -2,9 +2,9 @@
 <html>
 	<head>
 		<title>CATT :: Conservation Awareness Team Trust</title>
+		<link type="text/css" rel="stylesheet" href="assets/styles.css" />
+		<link rel="stylesheet" type="text/css" href="assets/magnific-popup.css" media="screen" />
 	</head>
-	<link type="text/css" rel="stylesheet" href="assets/styles.css" />
-	<link rel="stylesheet" type="text/css" href="assets/magnific-popup.css" media="screen" />
 	<body>
 		<div id="bg-slider"></div>
 		<?php

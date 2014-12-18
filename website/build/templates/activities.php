@@ -41,27 +41,6 @@
 							<div class="img"><img src="<?php echo $thisActivityDirFull . "/005.jpg"; ?>"></div>
 						</li>
 					</ul>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
-
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
 				</div>
 			</div>
 			<div class="activity-item">
@@ -94,27 +73,6 @@
 						<li>Taught basic exercises for muscle and bone strengthening.</li>
 						<li>Followed up through the volunteers.</li>
 					</ul>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
-
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
 				</div>
 			</div>
 			<div class="activity-item">
@@ -147,27 +105,6 @@
 						<img src="<?php echo $thisActivityDirFull . "/006.jpg"; ?>">
 					</div>
 					<p>The Vibha Dream Run, witnessed CATT members pushing through various needs of the forests among the corporate circles and the great deal of help it could get from them. The activity involved, volunteers reaching out to a number of people to harness the support required and to impart the same values which fuels us when it comes to conservation.</p>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
-
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
 				</div>
 			</div>
 			<div class="activity-item">
@@ -193,27 +130,6 @@
 					<div class="img"><img src="<?php echo $thisActivityDirFull . "/003.jpg"; ?>"></div>
 					<p>Dead fish, after it got caught in a gunny sack left behind by pilgrims at a water-hole inside the forest, during the religious festival. This was discovered when CATT- Volunteers were clearing the water-hole of all such litter.</p>
 					<div class="img"><img src="<?php echo $thisActivityDirFull . "/004.jpg"; ?>"></div>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
-
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
 				</div>
 			</div>
 			<div class="activity-item">
@@ -234,27 +150,6 @@
 					<p>The wildfire which had started on 13/03/2014, in Bandipur National Park, turned over 1000 acres of these beautiful forests into ashes. The type of fire which had engulfed these forests was "crown" fire which spread from tree-top to tree-tops. In spite of our best efforts, CATT Team could only reach the scene of this tragedy on the next day, but we continued to provide support to Forest Department to put out the fire.</p>
 					<p>We have not heard of or seen any large-animal deaths due to the Inferno.</p>
 					<p>There were 2 major forest fires during this period where CATT volunteers helped the forest department by doing fire-line monitoring and acting as fire-watchers to look out for fires.</p>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
-
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
 				</div>
 			</div>
 			<div class="activity-item">
@@ -273,27 +168,6 @@
 					<p>The assiduous work of the forest department has made the forest reserves in Karnataka to be one of the best protected reserves in the country and the home to one of the largest population of tigers. This is achieved by the hard work. The trained forest guards and watchers patrol the rough terrain of dense forests by foot to remove snares, confiscate illegal timber, dismantle poachers' camps, halt illegal land encroachment and rescue captured wildlife. They also patrol various beats by jeep to guard the forest day and night.</p>
 					<p>Foot patrolling is a basic and important activity that is carried out regularly by the forest guards and watchers who often find it difficult to cover the entire range in terms of certain aspects. CATT joins the team of forest staff to carry out menial foot patrols in the jungle.</p>
 					<p>CATT assisted the forest department of Bandipur National Park in foot patrolling for tracking an elephant which had strayed out of Bhadra and required immediate action to prevent any animal-human conflict. Unfortunately, the radio collar being used malfunctioned and the forest department had to resort to manual searching. CATT members along with two forest guards patrolled for almost 15 kilometers in search for the elephant.</p>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
-
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
 				</div>
 			</div>
 			<div class="activity-item">
@@ -306,27 +180,25 @@
 					<p>WILD INDIA and IT'S CHALLENGES saw Jose Louies, Assistant Manager - Enforcement, Assistance and Law at Wildlife Trust of India engross the anxious audience with real life experiences and the backdrops which come with it as an anti-poaching expert in the PELT division. Jose, who took a U-turn from his IT world to realize his dream of protecting wildlife gave useful tips with amazing insights into a world of wildlife trade that is so connected, established, modernized and twisted that the enforcement authorities find it difficult to tackle poaching and all the more important for conservationists to join hands to curb this nexus which is spiraling out of control. The disaster which is impending on our forests is man - made and man alone can control it before nature takes its course.</p>
 					<p>The overwhelming experience brought the members together with an enforced zeal to fight harder and conserve better, thanks to the effort put in by Jose Louies.</p>
 					<p>The workshop sent us back to our school days to remind us of an important fundamental duty: "to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures"</p>
-<!--
-					<div class="activity-images">
-						<h4>Event Gallery</h4>
-						<div class="image-list">
-						<?php
-							for ($i=0; $i < count($thisActivityImages); $i++) {
-								$imgFileName = $thisActivityImages[$i];
-								if ($imgFileName == "." || $imgFileName == "..") {
+				</div>
+			</div>
+			<div class="activity-item">
+				<a class="more-less" href="javascript:void(0)">&nbsp;</a>
+				<h2>Lantana Controll workshop</h2>
 
-								} else {
-						?>
-									<a href="<?php echo $actualImagesDir . "/" . $thisActivityImages[$i] ?> " rel="prettyPhoto[<?php echo $thisActivityDir ?>]">
-										<img src="<?php echo $thumbImagesDir . "/" . $thisActivityImages[$i] ; ?> " />
-									</a>
-						<?php
-								}
-							}
-						?>
-						</div>
-					</div>
- -->
+				<div>
+					<p>A day as usual as any in the life of a conservationist... Try to conserve anything and everything possible found in nature... an everyday mantra for CATT!</p>
+					<p>The lantana control management workshop, a place for an ideal conservationist saw many CATT members leaving behind their hectic schedules and heading out to Bandipur for a two day event organized to debate on what can be done about a serious issue engulfing our reserves.</p>
+					<p>For those of you who are wondering what Lantana is, here it is-</p>
+					<p>Lantana Camara is the DON among weeds, a kind of virus in the forest which inhibits any other species from flourishing and up until now there has been no vaccine that can prevent it from doing what it does. Introduced in India from South America as an ornamental plant as in any other country it has taken host, it has proven to be a major threat to native species and here's why-</p>
+					<ul>
+						<li>Produces chemicals that inhibit other plants from growing.</li>
+						<li>Produces toxins which are poisonous to herbivores.</li>
+						<li>Uprooting them simply exposes dormant seeds, increasing them in numbers.</li>
+						<li>Produces around 12000 seeds which remain dormant up to 11 years.</li>
+					</ul>
+					<p>However, all is not lost due to the effort put in by the forest department along with CATT and other NGOs who have used a novel idea to put the malice to some good use. It is found that L.Camara can be used to make furniture with the help of tribal population spread across the forests. This seems to have caught up as a vocational occupation among the tribals and may finally bring in some good news to the Paleotropical Kingdom.</p>
+					<p>The two day event was a success with CATT's mentor and IFS officer, Mr. Kantharaju H C and Mr. Girish Sampath from the Shola Trust giving some useful and first hand inputs on conservation of forests when it comes to invasive weeds. This was followed by some field activities where all CATT members (new and old) got a chance to bond and experience life in Bandipur along with the Tribals. In short, it was a perfect bonhomie... with respect to conservation of course.</p>
 				</div>
 			</div>
 		</div>
