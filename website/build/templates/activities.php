@@ -184,7 +184,7 @@
 			</div>
 			<div class="activity-item">
 				<a class="more-less" href="javascript:void(0)">&nbsp;</a>
-				<h2>Lantana Controll workshop</h2>
+				<h2>Lantana Control workshop</h2>
 
 				<div>
 					<p>A day as usual as any in the life of a conservationist... Try to conserve anything and everything possible found in nature... an everyday mantra for CATT!</p>
@@ -199,6 +199,44 @@
 					</ul>
 					<p>However, all is not lost due to the effort put in by the forest department along with CATT and other NGOs who have used a novel idea to put the malice to some good use. It is found that L.Camara can be used to make furniture with the help of tribal population spread across the forests. This seems to have caught up as a vocational occupation among the tribals and may finally bring in some good news to the Paleotropical Kingdom.</p>
 					<p>The two day event was a success with CATT's mentor and IFS officer, Mr. Kantharaju H C and Mr. Girish Sampath from the Shola Trust giving some useful and first hand inputs on conservation of forests when it comes to invasive weeds. This was followed by some field activities where all CATT members (new and old) got a chance to bond and experience life in Bandipur along with the Tribals. In short, it was a perfect bonhomie... with respect to conservation of course.</p>
+				</div>
+			</div>
+			<div class="activity-item">
+				<a class="more-less" href="javascript:void(0)">&nbsp;</a>
+				<h2>Torch Donation Activity</h2>
+
+				<div>
+					<p>The forest guards are the backbone of wildlife protection and they require all the support and encouragement there is to it. CATT took a step to honor its commitment to wildlife protection and conservation by deciding to donate High Beam torches to the patrol squad which will go a long way in supporting the squad during night patrol to identify our lurking friendly beasts at a distance and avoid any unseen incident. The torches were donated through ACF Ravi Shankar who has been a major part of conservation for CATT initiatives</p>
+					<p>26 Members &amp; Non Members of CATT Team did come forward and donated for the cause.</p>
+					<ul>
+						<li>Vaibhav Mupadi</li>
+						<li>Vidya Sagar</li>
+						<li>Mayank Prakash</li>
+						<li>Pratap Sikdar</li>
+						<li>Vijay Kulkarni</li>
+						<li>Suvojit Sinha</li>
+						<li>Vinayak Krishnamurthy</li>
+						<li>Saradhi Roy</li>
+						<li>Shyam Ganesh</li>
+						<li>Rutvid Dholakia</li>
+						<li>Deepak Shankar</li>
+						<li>Naveen JS</li>
+						<li>Girish Gumbalapuram</li>
+						<li>Devleena Bhattacharya</li>
+						<li>Shaila Prabhu</li>
+						<li>Praveen Byrappa</li>
+						<li>CS Reddy</li>
+						<li>Kunal Srivastava</li>
+						<li>Mervyn Pinto</li>
+						<li>Nirmalya Chakraborty</li>
+						<li>Suresh Babu</li>
+						<li>Pradeep Iyer</li>
+						<li>Ganesh Shankar</li>
+						<li>Hemanth Kamma</li>
+						<li>Manjunath H E</li>
+						<li>Nagendra J</li>
+						<li>Praveen Goel</li>
+					</ul>
 				</div>
 			</div>
 		</div>
