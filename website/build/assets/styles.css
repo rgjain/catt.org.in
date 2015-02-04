@@ -648,20 +648,35 @@ ul.event-item li .detail span strong {
 .w960 {
 	width: 960px !important;
 }
-#highlights {
+#hl_bl_wrap {
+	display: table;
+	border: 1px solid #e8e8e8;
+}
+#highlights, #blogs {
 	background: #fff;
 	position: relative;
 	margin: 20px auto 0px auto;
+	display: table-cell;
+	width: 500px;
 }
-#highlights h4 {
-	background: #ccc;
+#highlights h4, #blogs h4 {
 	padding: 10px;
-	display: inline-block;
 	vertical-align: middle;
 }
-#highlights ul {
+#highlights ul, #blogs ul {
 	list-style: none;
 	margin-left: 10px;
-	display: inline-block;
 	vertical-align: middle;
+}
+#highlights ul li, #blogs ul li {
+	display: table;
+}
+#highlights ul img, #blogs ul img {
+	display: table-cell;
+	vertical-align: top;
+}
+#highlights ul a, #blogs ul a {
+	vertical-align: top;
+	display: table-cell;
+	padding-left: 5px;
 }

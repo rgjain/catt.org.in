@@ -10,9 +10,3 @@
 			<img src="assets/images/banner/w1000x500/bnr-img-a-32.png" />
 			<img src="assets/images/banner/w1000x500/bnr-img-a-33.png" />
 		</div>
-		<div id="highlights" class="w1000">
-			<h4>HIGHLIGHTS</h4>
-			<ul>
-				<li><a href="assets/images/highlights/tr-free-checkup.jpg">Tiger Reserve Staff gets free checkup</a></li>
-			</ul>
-		</div>

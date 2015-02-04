@@ -15,6 +15,7 @@
 			if (!isset($p) || $p == null || empty($p)) {
 				include_once 'templates/banner.php';
 				include_once 'templates/vision.php';
+				include_once 'templates/highlights_blogs.php';
 				include_once 'templates/home.php';
 			} else {
 				include_once 'templates/' . $p . '.php';
