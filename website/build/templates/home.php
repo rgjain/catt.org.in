@@ -1,4 +1,4 @@
-		<div id="agrid" class="w1000">
+		<div id="agrid" class="w1000 agrid">
 			<a class="section" href="./?p=wildindia">
 				<img src="assets/images/thumbs/thumb-3.png">
 				<div class="detail">

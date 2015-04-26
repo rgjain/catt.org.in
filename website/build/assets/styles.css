@@ -169,13 +169,13 @@ ul li {
 #banner .pagination li.current {
 	background-position: center -17px;
 }
-#agrid {
+.agrid {
 	height: 300px;
 	margin-top: 40px;
 	position: relative;
 	z-index: 1;
 }
-#agrid .section {
+.agrid .section {
 	display: inline-block;
 	background: #fff;
 	width: 300px;
@@ -190,21 +190,21 @@ ul li {
     -ms-transition: background .5s;
     transition: background .5s;
 }
-#agrid .section #event-info {
+.agrid .section #event-info {
 	text-align: center;
 }
-#agrid .section:first-child {
+.agrid .section:first-child {
 	margin-left: 0;
 }
-#agrid .section:hover {
+.agrid .section:hover {
 	background: #294a0f;
 	color: #fff;
 	border-bottom: 2px solid #000;
 }
-#agrid .section img {
+.agrid .section img {
 	margin: 10px;
 }
-#agrid .section .detail {
+.agrid .section .detail {
 	margin: 10px;
 }
 #footer {
@@ -652,30 +652,31 @@ ul.event-item li .detail span strong {
 	display: table;
 	border: 1px solid #e8e8e8;
 }
-#highlights, #blogs {
+#highlights, #blogs, #newsletter {
 	background: #fff;
 	position: relative;
 	margin: 20px auto 0px auto;
 	display: table-cell;
 	width: 500px;
+	padding-bottom: 10px;
 }
-#highlights h4, #blogs h4 {
+#highlights h4, #blogs h4, #newsletter h4 {
 	padding: 10px;
 	vertical-align: middle;
 }
-#highlights ul, #blogs ul {
+#highlights ul, #blogs ul, #newsletter ul {
 	list-style: none;
 	margin-left: 10px;
 	vertical-align: middle;
 }
-#highlights ul li, #blogs ul li {
+#highlights ul li, #blogs ul li, #newsletter ul li {
 	display: table;
 }
-#highlights ul img, #blogs ul img {
+#highlights ul img, #blogs ul img, #newsletter ul img {
 	display: table-cell;
 	vertical-align: top;
 }
-#highlights ul a, #blogs ul a {
+#highlights ul a, #blogs ul a, #newsletter ul a {
 	vertical-align: top;
 	display: table-cell;
 	padding-left: 5px;
