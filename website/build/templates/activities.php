@@ -145,6 +145,24 @@
 				?>
 
 				<div>
+					<h4>Fire Line Creation: </h4>
+
+					<p>A firebreak is a gap in vegetation or other combustible material that acts as a barrier to slow or stop the progress of a bushfire or wildfire. A firebreak may occur naturally where there is a lack of vegetation or "fuel", such as a river, lake or canyon. Firebreaks may also be man-made, and many of these also serve as roads, such as a logging road, four-wheel drive trail, secondary road, or a highway.</p>
+					<p>A fire line is created during summer season as Bandipur being Dry Deciduous type forest is very vulnerable to forest fire. Members of CATT Team has been created summer line this season along with forest department staff to stop forest fire from crossing over from one part of forest to another specially ground fire.</p>
+					<p>It is a safe controlled burning &amp; doesn’t have harmful effect on the eco system or vegetation. </p>
+					<p>Controlled burning of grass as to create fire line also helps to generate fresh grass later during monsoon for herbivores to graze.</p>				
+					
+					<h4>Fire Line Monitoring:</h4>
+
+					<p>During early summer we create Fire Lines across Bandipur TR &amp; then comes time to monitor these fire lines along the Elephant proof trenches.</p>
+					<p>CATT Members have regularly monitored Fire lines along the EPTs because there is a high possibility of fire during summer season.</p>
+					<p>Elephant proof trenches are created in the buffer areas at the border of the forest.</p>
+					<p>Due to close proximity to village area and animals moving out of forest to eat crops villagers generally annoyed with wild animals.</p>
+					<p>Summers is the perfect season to take revenge so we try to monitor and find out if  any villagers are trying to put fire in the forest because once it is put it will have devastating effect.</p>
+					<p>It is not an easy job members require to walk 15 kms daily in scorching heat to reach forest boundary & monitor the border from the point for rest of the day.</p>
+
+					<h4>Forest Fire Prevention</h4>
+
 					<p>In India, we have remaining 78.29 million hectares of forest land covering over 20% of the total land as per The India State of Forest Report 2011 and nearly 800 sq. km less than the 78.37 million hectares published in the 2009 report. As per FSI the forest cover is reducing at an alarming rate. Forest fire is one of the causes.</p>
 					<p>The myth behind forest fire is that, it occurs naturally by two trees getting rubbed heavily due to storm. But the fact is, forest fires occur during the peak summer (not in monsoon) and it occurs only at the edges of the forests where there is large number of human settlements, villages or small hamlets are situated. The villagers (at the forest edges) often get inside the animal territories for collecting firewood or any other forest produce and cattle grazing. Animals get disturbed severely and they attack human being or their cattle. Agricultural land at the forest edges attracts wild animals. It results in loss of crop. In retaliation, the agitated villagers set the forest in fire. It has been proved that these forest fires are not natural and merely human driven.</p>
 					<p>The wildfire which had started on 13/03/2014, in Bandipur National Park, turned over 1000 acres of these beautiful forests into ashes. The type of fire which had engulfed these forests was "crown" fire which spread from tree-top to tree-tops. In spite of our best efforts, CATT Team could only reach the scene of this tragedy on the next day, but we continued to provide support to Forest Department to put out the fire.</p>
