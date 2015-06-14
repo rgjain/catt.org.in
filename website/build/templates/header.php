@@ -11,9 +11,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="./?p=activities" <?php if ($p == "activities" || $p == "projects") { echo 'class="active"';} ?> ><span>ACTIVITIES</span></a>
+					<a href="./?p=activities" <?php if ($p == "activities" || $p == "wildindia") { echo 'class="active"';} ?> ><span>ACTIVITIES</span></a>
 					<ul>
-						<li><a href="./?p=projects" <?php if ($p == "projects") { echo 'class="active"';} ?> ><span>PROJECTS</span></a></li>
+						<li><a href="./?p=wildindia" <?php if ($p == "wildindia") { echo 'class="active"';} ?> ><span>PROJECTS</span></a></li>
 					</ul>
 				</li>
 				<li><a href="./?p=gallery" <?php if ($p == "gallery") { echo 'class="active"';} ?> ><span>GALLERY</span></a></li>

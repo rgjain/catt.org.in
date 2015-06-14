@@ -91,4 +91,22 @@ $(function(){
 			});
 		});
 	}
+	
+	$(".tabs li").click(function(evt) {
+		var tgtEl = $(this),
+			index = tgtEl.index();
+		
+		tabFun(index);
+	});
+	
+	var tabFun = function (index) {
+		$(".tab-content").hide();
+		$(".tabs li").removeClass("active");
+		
+		$(".tabs li").eq(index).addClass("active");
+		$(".tab-content").eq(index).fadeIn();
+	};
+	
+	tabFun(0);
+	
 });

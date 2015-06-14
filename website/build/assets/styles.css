@@ -30,6 +30,7 @@ ul li {
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-image: url("images/body-bg-1.png");
+	background-size: cover;
 	padding-top: 100px;
 	position: absolute;
 	top: 0;
@@ -664,10 +665,36 @@ ul.event-item li .detail span strong {
 	padding: 10px;
 	vertical-align: middle;
 }
-#highlights ul, #blogs ul, #newsletter ul {
+#highlights ul, #blogs ul, #newsletter ul, #wildindia ul {
 	list-style: none;
 	margin-left: 10px;
 	vertical-align: middle;
+}
+#wildindia h2 {
+	background: #eee;
+	text-align: center;
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}
+#wildindia .tabs {
+	border-bottom: 2px solid #ddd;
+}
+#wildindia .tabs li {
+	display: inline-block;
+	cursor: pointer;
+	margin-top: 0;
+	padding: 10px 20px;
+	font-weight: bold;
+}
+#wildindia .tabs li.active {
+	background: #f5f5f5
+}
+#wildindia ul li {
+	margin-top: 20px;
+}
+#wildindia .tab-content > ul > li  ul > li {
+	list-style-type: circle;
+	margin-left: 30px;
 }
 #highlights ul li, #blogs ul li, #newsletter ul li {
 	display: table;
