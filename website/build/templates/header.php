@@ -1,4 +1,11 @@
-
+		<div class="top-bar w1000 clearfix">
+			<a class="links fb-bg" href="https://www.facebook.com/CATTConservationAwarenessTeamTrust" title="connect with us on facebook">
+				<img src="assets/images/FBLogoblue29.png" alt="connect with us on facebook" title="connect with us on facebook" />
+			</a>
+			<a class="links twitter-bg" href="https://twitter.com/catt_org" title="connect with us on twitter">
+				<img src="assets/images/TwitterLogo29.png" alt="connect with us on twitter" title="connect with us on twitter" />
+			</a>
+		</div>
 		<div id="header" class="w1000 clearfix">
 			<a id="logo" href="./" title="Conservation Awareness Team Trust"><img src="assets/images/catt-logo-150.png" alt="CATT"></a>
 			<ul id="nav">
