@@ -3,10 +3,11 @@
 		<div class="content">
 			<div class="tabs" >
 				<ul>
-					<li>National NGO</li>
-					<li>International NGO</li>
-					<li>National Research Institutes</li>
-					<li>International Research Institute</li>
+					<li title="National NGO">National NGO</li>
+					<li title="International NGO">International NGO</li>
+					<li title="National Research Institutes">National Research Institutes</li>
+					<li title="International Research Institute">International Research Institute</li>
+					<li title="India's Forest Cover &amp; it's Tiger Reserves">India's Forests &amp; it's TRs</li>
 				</ul>
 			</div>
 			<div class="tab-content" >
@@ -252,5 +253,9 @@
 					</li>
 				</ul>
 			</div>
+			<div class="tab-content" >
+				<img src="assets/images/maps/forest_cover_of_india.jpg" alt="India's Forest Cover" title="India's Forest Cover" />
+				<img src="assets/images/maps/India_tiger_reserves.gif" alt="India's Tiger Reserves" title="India's Tiger Reserves" />
+			</div>			
 		</div>
 	</div>
