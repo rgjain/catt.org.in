@@ -19,13 +19,6 @@
 					</li>
 
 					<li>
-						<img src="assets/images/profile/team/sayak.png" alt="Sayak Dutta">
-						<div><strong>Sayak Dutta</strong><br /> Field Director</div>
-						<p><a href="mailto:sayak1001@yahoo.com">sayak1001@yahoo.com</a></p>
-						<p>8971281818</p>
-					</li>
-
-					<li>
 						<img src="assets/images/profile/team/sahana.png" alt="Sahana Roy">
 						<div><strong>Sahana Roy</strong><br /> Treasurer</div>
 						<p><a href="mailto:sahana1.1981@gmail.com">sahana1.1981@gmail.com</a></p>
@@ -45,13 +38,6 @@
 						<p><a href="mailto:pratap.sikdar@gmail.com">pratap.sikdar@gmail.com</a></p>
 						<p>9972596272</p>
 					</li>
-
-					<li>
-						<img src="assets/images/profile/team/chandrasekharreddy.png" alt="Pratap Sikdar">
-						<div><strong>Chandrasekhar Reddy</strong><br /> Trustee</div>
-						<p><a href="mailto:chandrasekharreddy514@gmail.com">chandrasekharreddy514@gmail.com</a></p>
-						<p>9900095696</p>
-					</li>
 				</ul>
 
 				<h3>Honorary Team Members</h3>
@@ -64,6 +50,20 @@
 					<li>
 						<img src="assets/images/profile/team/rupeshjain.png" alt="Rupesh Jain">
 						<div><strong>Rupesh Jain</strong><br />Rupesh got involved with CATT when it was going through its biggest challenge. He alone has built entire website for CATT & continues to support CATT in coming years. CATT will always remember his contribution towards organization.</div>
+					</li>
+
+					<li>
+						<img src="assets/images/profile/team/sayak.png" alt="Sayak Dutta">
+						<div><strong>Sayak Dutta</strong><br /> Field Director</div>
+						<p><a href="mailto:sayak1001@yahoo.com">sayak1001@yahoo.com</a></p>
+						<p>8971281818</p>
+					</li>
+
+					<li>
+						<img src="assets/images/profile/team/chandrasekharreddy.png" alt="Chandrasekhar Reddy">
+						<div><strong>Chandrasekhar Reddy</strong><br /></div>
+						<p><a href="mailto:chandrasekharreddy514@gmail.com">chandrasekharreddy514@gmail.com</a></p>
+						<p>9900095696</p>
 					</li>
 				</ul>
 			</div>
