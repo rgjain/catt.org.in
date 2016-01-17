@@ -6,6 +6,10 @@
 					<img src="assets/images/highlight_icon.png" alt="highlight" title="highlight">
 					<a href="assets/images/highlights/tr-free-checkup.jpg">Tiger Reserve Staff gets free checkup</a>
 				</li>
+				<li>
+					<img src="assets/images/highlight_icon.png" alt="highlight" title="highlight">
+					<a href="assets/images/highlights/catt-nagarhole medical camp.jpg">CATT - Medical Camp at Nagarhole on 12th &amp; 13th December which was covered by two leading Kannada daily - Kannada Prabha &amp; VijayaVani  </a>
+				</li>
 			</ul>
 		</div>
 		<div id="blogs" >
