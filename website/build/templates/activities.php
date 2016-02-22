@@ -257,5 +257,25 @@
 					</ul>
 				</div>
 			</div>
+			<div class="activity-item">
+				<a class="more-less" href="javascript:void(0)">&nbsp;</a>
+				<h2>GAS / Stove Donation to Nagarhole Tiger Reserve</h2>
+
+				<?php
+					$thisActivityDir = "Gas Connection Donation";
+					$thisActivityDirFull = $basedir . $thisActivityDir;
+					$thumbImagesDir = $basedir . $thisActivityDir . "/w160";
+					$actualImagesDir = $basedir . $thisActivityDir . "/w800";
+					$thisActivityImages = scandir($thumbImagesDir);
+				?>
+
+				<div>
+					<p>APC or Antipoaching Camps are adobe of our foot soldiers. They live in these camp days together to protect our natural heritage.</p>
+					<p>Instead of using firewood from forest now they will have LPG to cook food &amp; live a better life.</p>
+					<p>CATT Members &amp; Volunteers have joined hand and donated 9 set of Gas Stove &amp; Cylinder to 9 APCs of Antharasanthe &amp; DB Kuppe ranges.</p>
+					<p>We are committed to raise fund and complete other 18 APCs by year end 2016.</p>
+				</div>
+			</div>
+
 		</div>
 	</div>
