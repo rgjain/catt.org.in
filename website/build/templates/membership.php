@@ -56,7 +56,7 @@
 
 			<p>For membership programme, please transfer the membership fee to the above mentioned account and register <a href="./?p=membershipform">here</a>.</p>
 
-			<p>To participate in any field activity, every member/volunteer is required to sign the <a href="./assets/images/docs/CATT Declaration Form V1.1.doc">declaration form</a>.</p>
+			<p>To participate in any field activity, every member/volunteer is required to sign the <a href="./assets/docs/CATT Declaration Form V1.1.doc" target="_blank">declaration form</a>.</p>
 
 			<p>Please use the above mentioned account details for donation and write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 
