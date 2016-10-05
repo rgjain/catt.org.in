@@ -52,6 +52,7 @@
 
 		<meta name="author" content="http://catt.org.in/">
 		<meta name="copyright" content="&copy; 2014 - CATT :: Conservation Awareness Team Trust">
+		<meta name="google-signin-client_id" content="369320507427-59khundtso4otj1p3u52a7mri0oc5k8f.apps.googleusercontent.com">
 						
 		<title>CATT :: Conservation Awareness Team Trust</title>
 		<link type="text/css" rel="stylesheet" href="assets/styles.css" />
@@ -80,4 +81,6 @@
 	<script type="text/javascript" src="assets/flux.min.js"></script>
 	<script type="text/javascript" src="assets/script.js"></script>
 	<script type="text/javascript" src="assets/jquery.magnific-popup.min.js" ></script>
+	<script type="text/javascript" src="assets/jquery.validate.js" ></script>
+	<script type="text/javascript" src="assets/additional-methods.js" ></script>
 </html>

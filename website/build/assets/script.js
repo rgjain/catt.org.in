@@ -108,5 +108,119 @@ $(function(){
 	};
 	
 	tabFun(0);
-	
+
+	$("#contributionsForm").validate({
+		rules : {
+			name : {
+				required : true
+			},
+			emailid : {
+				required : true,
+				email : true
+			},
+			address : {
+				required : true
+			},
+			amount : {
+				required : true,
+				digits : true
+			},
+			cause : {
+				required : true
+			},
+			date : {
+				required : true,
+				date : true
+			}
+		},
+		messages : {
+			name : {
+				required : "Name is a required field"
+			},
+			emailid : {
+				required : "Email is a required field",
+				email : "Invalid email format"
+			},
+			address : {
+				required : "Address is a required field"
+			},
+			amount : {
+				required : "Please enter the contribution amount",
+				digits : "Only numbers are accepted in this field"
+			},
+			cause : {
+				required : "Select the cause for which you have contributed"
+			},
+			date : {
+				required : "Date is a required field",
+				date : "Invalid date format"
+			}
+		},
+		submitHandler : function (form) {
+			var $form = $(form);
+
+			$.ajax({
+				url : "php/storeContributions.php",
+				type : "post",
+				data : $form.serialize(),
+				success : function (resp) {
+					if (resp == "true") {
+						$form.find(".msg-area").addClass("success").html("Your donation details have been submitted for review. After review, the 80G certificate will be sent to your provided email address.");
+					} else {
+						$form.find(".msg-area").addClass("error").html("There was an error saving the information. Please try again later.");
+					}
+				}
+			})			
+		}
+
+	});
+
+	$("#contributionsList .btn-approve, #contributionsList .btn-reject").on("click", function () {
+
+		var isBtnApprove = $(this).hasClass("btn-approve");
+		var isBtnReject = $(this).hasClass("btn-reject");
+
+		if (isBtnApprove) {
+			var question = "Are you sure you want to approve this donation ?";
+			var action = "approved";
+		} else {
+			var question = "Are you sure you want to reject this donation ?";
+			var action = "rejected";			
+		}
+
+		var question = (isBtnApprove) ? "Are you sure you want to approve this donation ?" : "Are you sure you want to reject this donation ?";
+		var confirmVal = confirm (question);
+		
+		if (!confirmVal) return false;
+
+		var tr = $(this).closest("tr");
+		var record_id = tr.data("recordid");
+
+		if (confirmVal) {
+			doContributionsUpdate (tr, record_id, action);
+		}
+	});
 });
+
+function doContributionsUpdate (tr, record_id, action) {
+
+	$.ajax({
+		url : "php/updateContributions.php",
+		type : "post",
+		data : {
+			record_id : record_id,
+			action : action
+		},
+		success : function (resp) {
+			var trClass = (action == "approved") ? "green" : "red";
+			var actionBtnCell = tr.addClass(trClass).find(".action-btn-cell");
+			if (resp != "error") {
+				actionBtnCell.html("<span class='uppercase'>" + action + "</span>");
+			} else {
+				alert("There was an error completing your request. Please try later");
+			}
+		}
+	})
+
+
+}
