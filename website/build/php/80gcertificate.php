@@ -68,18 +68,16 @@
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody>
 			<tr>
-				<td>Received with thanks from <strong>MR. SARADHI ROY</strong></td>
+				<td>Received with thanks from <strong><?php echo $name; ?></strong></td>
 			</tr>
 			<tr>
 				<td>
-					<p>018, A BLOCK, ADITHYA SOIGNE, BEML ROAD, SHIVANANDANAGAR </p>
-					<p>BANGALORE, KARNATAKA</p>
-					<p>Pin :560075 (INDIA)</p>
+				    <addr><?php echo $address; ?></addr>
 				</td>
-				<tr>
-					<td><hr></td>
-				</tr>
 			</tr>
+            <tr>
+                <td><hr></td>
+            </tr>
 		</tbody>
 	</table>
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -96,22 +94,10 @@
 		</thead>
 		<tbody>
 			<tr>
-				<td>LPG Connection Donation Drive</td>
-				<td>NEFT</td>
-				<td>344534636</td>
-				<td>3000.00</td>
-			</tr>
-			<tr>
-				<td>Medical Camp</td>
-				<td>Cash</td>
-				<td>&nbsp;</td>
-				<td>5000.00</td>
-			</tr>
-			<tr>
-				<td>Total Amount</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>8000.00</td>
+				<td><?php echo $cause; ?></td>
+				<td><?php echo $paymentMode; ?></td>
+				<td><?php echo $tran_ref_num; ?></td>
+				<td><?php echo $amount; ?></td>
 			</tr>
 		</tbody>
 	</table>
@@ -131,7 +117,7 @@
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<thead>
 			<tr>
-				<th>This is a computer generated receipt. Signature not required.</td>
+				<th>This is a computer generated receipt. Signature not required.</th>
 			</tr>
 		</thead>
 	</table>

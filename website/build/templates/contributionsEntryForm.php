@@ -23,6 +23,14 @@
 				</select>
 				<label for="amount">Donation Date (dd-mm-yyyy)</label>
 				<input type="date" name="date" id="date" required="true" />
+				<label for="paymentMode">Mode of Payment</label>
+				<select name="paymentMode" id="paymentMode" required="true" >
+					<option value="cash">Medical Camp</option>
+					<option value="onlinetransfer">Online Transfer (Net Banking)</option>
+				</select>
+				<label for="tranRefNum">Transaction Reference Number</label>
+				<input type="text" name="tranRefNum" id="tranRefNum" required="true" />
+
 				<button id="submitDonations" name="submitDonations">Submit</button>
 			</form>
 		</div>
