@@ -5,7 +5,7 @@
 	$record_id = $post['record_id'];
 	$action = $post['action'];
 
-	echo $update_query = "update contributions set status = '$action' where id=$record_id";
+	$update_query = "update contributions set status = '$action' where id=$record_id";
 	$res = mysql_query($update_query) or die(mysql_error());
 
 	if ($res) {

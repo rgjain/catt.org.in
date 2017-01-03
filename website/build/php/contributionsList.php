@@ -17,7 +17,7 @@
 		} else {
 			$trClass = "";
 		}
-?>		
+?>
 		<tr data-recordid="<?php echo $r['id']; ?>" class="<?php echo $trClass; ?>" >
 			<td><?php echo $counter; ?></td>
 			<td><?php echo $r["date"]; ?></td>
@@ -26,6 +26,7 @@
 			<td><?php echo $r["address"]; ?></td>
 			<td><?php echo $r["amount"]; ?></td>
 			<td><?php echo $r["cause"]; ?></td>
+			<td><?php echo $r["transref"]; ?></td>
 			<td class="action-btn-cell" >
 				<span class='uppercase'><?php echo $r["status"]; ?></span>
 				<?php if (empty($r["status"]) || strlen($r["status"]) == 0) { ?>

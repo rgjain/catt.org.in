@@ -8,8 +8,9 @@
 	$amount = $post['amount'];
 	$cause = $post['cause'];
 	$date = date('Y-m-d', strtotime($post['date']));
+	transref = $post['transref'];
 
-	$insert_query = "insert into contributions(name, email_address, address, amount, cause, date) values('$name', '$emailid', '$address', $amount, '$cause', '$date')";
+	$insert_query = "insert into contributions(name, email_address, address, amount, cause, date, transref) values('$name', '$emailid', '$address', $amount, '$cause', '$date', '$transref')";
 	$res = mysql_query($insert_query) or die(mysql_error());
 
 	if ($res) {

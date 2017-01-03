@@ -9,10 +9,10 @@ jQuery.fn.animateAuto = function(prop, speed, appendTo, callback){
 		if(prop === "height")
 			el.animate({"height":height}, speed, callback);
 		else if(prop === "width")
-			el.animate({"width":width}, speed, callback);  
+			el.animate({"width":width}, speed, callback);
 		else if(prop === "both")
 			el.animate({"width":width,"height":height}, speed, callback);
-	});  
+	});
 };
 
 $(function(){
@@ -79,7 +79,7 @@ $(function(){
 			});
 		});
 	}
-	
+
 	if ($("#highlights").length > 0) {
 		$("#highlights").each(function() {
 			$(this).magnificPopup({
@@ -91,22 +91,22 @@ $(function(){
 			});
 		});
 	}
-	
+
 	$(".tabs li").click(function(evt) {
 		var tgtEl = $(this),
 			index = tgtEl.index();
-		
+
 		tabFun(index);
 	});
-	
+
 	var tabFun = function (index) {
 		$(".tab-content").hide();
 		$(".tabs li").removeClass("active");
-		
+
 		$(".tabs li").eq(index).addClass("active");
 		$(".tab-content").eq(index).fadeIn();
 	};
-	
+
 	tabFun(0);
 
 	$("#contributionsForm").validate({
@@ -131,6 +131,9 @@ $(function(){
 			date : {
 				required : true,
 				date : true
+			},
+			transref : {
+				required : true
 			}
 		},
 		messages : {
@@ -154,6 +157,9 @@ $(function(){
 			date : {
 				required : "Date is a required field",
 				date : "Invalid date format"
+			},
+			transref : {
+				required : "Transaction/Reference number is a required field",
 			}
 		},
 		submitHandler : function (form) {
@@ -170,7 +176,7 @@ $(function(){
 						$form.find(".msg-area").addClass("error").html("There was an error saving the information. Please try again later.");
 					}
 				}
-			})			
+			})
 		}
 
 	});
@@ -185,12 +191,12 @@ $(function(){
 			var action = "approved";
 		} else {
 			var question = "Are you sure you want to reject this donation ?";
-			var action = "rejected";			
+			var action = "rejected";
 		}
 
 		var question = (isBtnApprove) ? "Are you sure you want to approve this donation ?" : "Are you sure you want to reject this donation ?";
 		var confirmVal = confirm (question);
-		
+
 		if (!confirmVal) return false;
 
 		var tr = $(this).closest("tr");

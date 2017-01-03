@@ -12,6 +12,8 @@
 				<input type="text" name="address" id="address" required="true" />
 				<label for="amount">Donation Amount (INR/Rs.)</label>
 				<input type="number" name="amount" id="amount" required="true" />
+				<label for="transref">Transaction/Reference Number</label>
+				<input type="text" name="transref" id="transref" required="true" />
 				<label for="cause">Cause</label>
 				<select name="cause" id="cause" required="true" >
 					<option value="MedicalCamp">Medical Camp</option>
@@ -23,5 +25,5 @@
 				<input type="date" name="date" id="date" required="true" />
 				<button id="submitDonations" name="submitDonations">Submit</button>
 			</form>
-		</div>		
+		</div>
 	</div>
