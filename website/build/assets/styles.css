@@ -987,3 +987,6 @@ tr.green {
 tr.red {
 	background: #fde6e6 !important;
 }
+#contributionsList .content .table * {
+    font-size: 11px;
+}

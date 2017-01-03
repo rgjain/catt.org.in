@@ -12,6 +12,7 @@
 						<th>Address</th>
 						<th>Amount</th>
 						<th>Cause</th>
+						<th>Transaction #</th>
 						<th>Action</th>
 					</tr>
 				</thead>
