@@ -28,10 +28,10 @@
 			<td><?php echo $r["cause"]; ?></td>
 			<td><?php echo $r["transref"]; ?></td>
 			<td class="action-btn-cell" >
-				<span class='uppercase'><?php echo $r["status"]; ?></span>
+				<span class='uppercase'><?php echo $r["status"] . " " . $r["80gcert_number"]; ?></span>
 				<?php if (empty($r["status"]) || strlen($r["status"]) == 0) { ?>
-				<button class="btn btn-green btn-approve">Approve</button>
-				<button class="btn btn-grey btn-reject">Reject</button>
+					<button class="btn btn-green btn-approve">Approve</button>
+					<button class="btn btn-grey btn-reject">Reject</button>
 				<?php } ?>
 			</td>
 		</tr>

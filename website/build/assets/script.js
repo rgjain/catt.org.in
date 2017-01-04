@@ -172,13 +172,13 @@ $(function(){
 				success : function (resp) {
 					if (resp == "true") {
 						$form.find(".msg-area").addClass("success").html("Your donation details have been submitted for review. After review, the 80G certificate will be sent to your provided email address.");
+						$form[0].reset();
 					} else {
 						$form.find(".msg-area").addClass("error").html("There was an error saving the information. Please try again later.");
 					}
 				}
-			})
+			});
 		}
-
 	});
 
 	$("#contributionsList .btn-approve, #contributionsList .btn-reject").on("click", function () {
