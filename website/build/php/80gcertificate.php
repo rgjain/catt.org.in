@@ -1,3 +1,9 @@
+<?php
+	$regno = "CIT(E)BLR/80G/M-413/ AABTC5858K /ITO(E)-1/Vol 2016-2017";
+	$pan = "AABTC5858K";
+	$f = new NumberFormatter("en", NumberFormatter::SPELLOUT);
+ 	$amount_in_words = $f->format($amount);
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,13 +42,13 @@
 			<tr>
 				<td>
 					<p>#018, A Block, Adithya Soigne Apartment,</p>
-					<p>BEML Road, Shivanandanagar, Bangalore -560075</p>
-					<p>Website: www.catt.org.in<a href="http://www.catt.org.in"></a></p>
+					<p>BEML Road, Shivanandanagar, Bangalore - 560075</p>
+					<p>Website: <a href="http://www.catt.org.in">www.catt.org.in</a></p>
 					<p>Email: <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 				</td>
 				<td align="right">
-					<p>Registration No. AS/3454FFF</p>
-					<p>PAN: AXXPX0000N</p>
+					<p>Registration No. <?php echo $regno; ?></p>
+					<p>PAN: <?php echo $pan; ?></p>
 				</td>
 			</tr>
 			<tr>
@@ -53,12 +59,8 @@
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody>
 			<tr>
-				<td>Donor ID: CATT/324234</td>
-				<td align="right">Receipt No: CATT/2016/34234</td>
-			</tr>
-			<tr>
-				<td>Receipt Date: 20-Jul-2016</td>
-				<td></td>
+				<td>Receipt Date: <?php echo date('d-M-Y', strtotime($date)); ?></td>
+				<td align="right">Receipt No: <?php echo $transref; ?></td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr></td>
@@ -96,7 +98,7 @@
 			<tr>
 				<td><?php echo $cause; ?></td>
 				<td><?php echo $paymentMode; ?></td>
-				<td><?php echo $tran_ref_num; ?></td>
+				<td><?php echo $transref; ?></td>
 				<td><?php echo $amount; ?></td>
 			</tr>
 		</tbody>
@@ -107,7 +109,7 @@
 				<td><hr></td>
 			</tr>
 			<tr>
-				<td><strong>In words: </strong> INR: Eight thousand only</td>
+				<td><strong>In words: </strong> INR: <?php echo $amount_in_words; ?> </td>
 			</tr>
 			<tr>
 				<td><hr></td>

@@ -13,10 +13,10 @@
 	if ($res) {
 
         // get the contribution details
-        $getQuery = "select name, email_address, address, amount, cause, id, timestamp, date, status, transref, 80gcert_number from contributions where id = $record_id";
+        echo $getQuery = "select name, email_address, address, amount, ci.cause_name as cause, c.id, timestamp, date, status, transref, 80gcert_number, payment_mode from contributions c, cause_info ci where c.id = $record_id and c.cause = ci.cause_val";
         $getres = mysql_query($getQuery) or die(mysql_error());
 
-        list ($name, $email_address, $address, $amount, $cause, $id, $timestamp, $date, $status, $transref, $eightygcert_id) = mysql_fetch_row($getres);
+        list ($name, $email_address, $address, $amount, $cause, $id, $timestamp, $date, $status, $transref, $eightygcert_id, $paymentMode) = mysql_fetch_row($getres);
 
         ob_start();
         include_once("contributionEmail.php");
@@ -34,8 +34,8 @@
         $dompdf->render(); // Parse the html, convert to PDF
         $pdf_certContent = $dompdf->output(); // Put contents of pdf into variable for later
 
-        $file_location = "./acks_store/" . $pan . "_acknowledgment.pdf";
-        file_put_contents($file_location, $pdf_ackContent);
+        $file_location = "./80gCert/" . $eightygcert_id . ".pdf";
+        file_put_contents($file_location, $pdf_certContent);
 
         include_once('emailAcknowledgement.php'); // sends an email for the acknowledgement.
 

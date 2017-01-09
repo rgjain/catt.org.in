@@ -9,8 +9,10 @@
 	$cause = $post['cause'];
 	$date = date('Y-m-d', strtotime($post['date']));
 	$transref = $post['transref'];
+	$paymentMode = $post['paymentMode'];
 
-	$insert_query = "insert into contributions(name, email_address, address, amount, cause, date, transref) values('$name', '$emailid', '$address', $amount, '$cause', '$date', '$transref')";
+	$insert_query = "insert into contributions(name, email_address, address, amount, cause, date, transref, paymentMode)
+					values('$name', '$emailid', '$address', $amount, '$cause', '$date', '$transref', '$paymentMode')";
 	$res = mysql_query($insert_query) or die(mysql_error());
 
 	if ($res) {
