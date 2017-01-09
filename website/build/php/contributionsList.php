@@ -20,7 +20,7 @@
 ?>
 		<tr data-recordid="<?php echo $r['id']; ?>" class="<?php echo $trClass; ?>" >
 			<td><?php echo $counter; ?></td>
-			<td><?php echo $r["date"]; ?></td>
+			<td><?php echo date("d-M-Y", strtotime($r["date"])); ?></td>
 			<td><?php echo $r["name"]; ?></td>
 			<td><?php echo $r["email_address"]; ?></td>
 			<td><?php echo $r["address"]; ?></td>

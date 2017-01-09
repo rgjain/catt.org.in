@@ -11,7 +11,7 @@
 	$transref = $post['transref'];
 	$paymentMode = $post['paymentMode'];
 
-	$insert_query = "insert into contributions(name, email_address, address, amount, cause, date, transref, paymentMode)
+	$insert_query = "insert into contributions(name, email_address, address, amount, cause, date, transref, payment_mode)
 					values('$name', '$emailid', '$address', $amount, '$cause', '$date', '$transref', '$paymentMode')";
 	$res = mysql_query($insert_query) or die(mysql_error());
 

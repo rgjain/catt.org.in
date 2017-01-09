@@ -1,6 +1,6 @@
 <?php
 	include_once 'dbCon.php';
-	include_once 'assets/dompdf/dompdf_config.inc.php';
+	include_once '../assets/dompdf/dompdf_config.inc.php';
 
 	$post = $_POST;
 	$record_id = $post['record_id'];
