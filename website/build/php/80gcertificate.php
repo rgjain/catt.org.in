@@ -97,7 +97,7 @@
 		<tbody>
 			<tr>
 				<td><?php echo $cause; ?></td>
-				<td><?php echo $paymentMode; ?></td>
+				<td><?php echo $payment_mode; ?></td>
 				<td><?php echo $transref; ?></td>
 				<td><?php echo $amount; ?></td>
 			</tr>
