@@ -13,8 +13,12 @@
 		body {
 			font-family: Arial, sans-serif;
 			font-size: 13px;
-			width: 1000px;
-			margin: 0 auto;
+			margin: 10px;
+		}
+		table {
+			width: 100%;
+			border-collapse: collapse;
+			table-layout: fixed;
 		}
 		p {
 			margin: 0.5em 0;
@@ -60,7 +64,7 @@
 		<tbody>
 			<tr>
 				<td>Receipt Date: <?php echo date('d-M-Y', strtotime($date)); ?></td>
-				<td align="right">Receipt No: <?php echo $transref; ?></td>
+				<td align="right">Receipt No: <?php echo $eightygcert_id; ?></td>
 			</tr>
 			<tr>
 				<td colspan="2"><hr></td>

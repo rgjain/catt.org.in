@@ -1,6 +1,9 @@
 <?php
 	include_once 'dbCon.php';
-	include_once '../assets/dompdf/dompdf_config.inc.php';
+	require 'vendor/autoload.php';
+	// require_once 'vendor/dompdf/dompdf/autoload.inc.php';
+	use Dompdf\Dompdf;
+	use Dompdf\Options;
 
 	$post = $_POST;
 	$record_id = $post['record_id'];
@@ -16,7 +19,7 @@
 	        $getQuery = "select name, email_address, address, amount, ci.cause_name as cause, c.id, timestamp, date, status, transref, 80gcert_number, payment_mode from contributions c, cause_info ci where c.id = $record_id and c.cause = ci.cause_val";
 	        $getres = mysql_query($getQuery) or die(mysql_error());
 
-	        list ($name, $email_address, $address, $amount, $cause, $id, $timestamp, $date, $status, $transref, $eightygcert_id, $paymentMode) = mysql_fetch_row($getres);
+	        list ($name, $email_address, $address, $amount, $cause, $id, $timestamp, $date, $status, $transref, $eightygcert_id, $payment_mode) = mysql_fetch_row($getres);
 
 	        ob_start();
 	        include_once("contributionEmail.php");
@@ -29,7 +32,10 @@
 	        $certContent = ob_get_contents();
 	        ob_end_clean();
 
-	        $dompdf = new DOMPDF(); // Create new instance of dompdf
+			$options = new Options();
+			$options->set('isRemoteEnabled', TRUE);
+			$dompdf = new DOMPDF($options); // Create new instance of dompdf
+
 	        $dompdf->load_html($certContent); // Load the html
 	        $dompdf->render(); // Parse the html, convert to PDF
 	        $pdf_certContent = $dompdf->output(); // Put contents of pdf into variable for later
