@@ -29,6 +29,9 @@
 		td, th {
 			padding: 5px 0;
 		}
+		.capitalize {
+			text-transform: capitalize;
+		}
 	</style>
 </head>
 <body>
@@ -113,7 +116,7 @@
 				<td><hr></td>
 			</tr>
 			<tr>
-				<td><strong>In words: </strong> INR: <?php echo $amount_in_words; ?> </td>
+				<td><strong>In words: </strong> INR: <span class="capitalize" ><?php echo $amount_in_words; ?></span> only</td>
 			</tr>
 			<tr>
 				<td><hr></td>

@@ -21,6 +21,9 @@
 
 	        list ($name, $email_address, $address, $amount, $cause, $id, $timestamp, $date, $status, $transref, $eightygcert_id, $payment_mode) = mysql_fetch_row($getres);
 
+			$numformat = new NumberFormatter("en", NumberFormatter::SPELLOUT);
+			$amount_in_words = $numformat->formatCurrency ($amount, "INR");
+
 	        ob_start();
 	        include_once("contributionEmail.php");
 	        $emailContent = ob_get_contents();
