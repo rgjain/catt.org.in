@@ -52,6 +52,7 @@
 		} else {
 			// print $action;
 		}
+		print "success";
 	} else {
 		print "error";
 	}

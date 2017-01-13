@@ -218,12 +218,12 @@ function doContributionsUpdate (tr, record_id, action) {
 			action : action
 		},
 		success : function (resp) {
-			var trClass = (action == "approved") ? "green" : "red";
-			var actionBtnCell = tr.addClass(trClass).find(".action-btn-cell");
-			if (resp != "error") {
-				actionBtnCell.html("<span class='uppercase'>" + action + "</span>");
-			} else {
+			if (resp == "success") {
+				var trClass = (action == "approved") ? "green" : "red";
+				var actionBtnCell = tr.addClass(trClass).find(".action-btn-cell");
 				alert("There was an error completing your request. Please try later");
+			} else {
+				actionBtnCell.html("<span class='uppercase'>" + action + "</span>");
 			}
 		}
 	})
