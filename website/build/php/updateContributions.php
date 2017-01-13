@@ -1,6 +1,6 @@
 <?php
 	include_once 'dbCon.php';
-	require 'vendor/autoload.php';
+	require_once 'dompdf/autoload.inc.php';
 	// require_once 'vendor/dompdf/dompdf/autoload.inc.php';
 	use Dompdf\Dompdf;
 	use Dompdf\Options;
