@@ -1,8 +1,6 @@
 <?php
 	$regno = "CIT(E)BLR/80G/M-413/ AABTC5858K /ITO(E)-1/Vol 2016-2017";
 	$pan = "AABTC5858K";
-	// $f = new NumberFormatter("en", NumberFormatter::SPELLOUT);
- // 	$amount_in_words = $f->format($amount);
 ?>
 <!DOCTYPE html>
 <html>
@@ -31,6 +29,12 @@
 		}
 		.capitalize {
 			text-transform: capitalize;
+		}
+		.signature-area {
+			border-top: 1px dashed #000;
+			padding: 10px;
+			float: right;
+			margin-top: 80px;
 		}
 	</style>
 </head>
@@ -129,6 +133,13 @@
 				<th>This is a computer generated receipt. Signature not required.</th>
 			</tr>
 		</thead>
+		<tbody>
+			<tr>
+				<td align="right">
+					<span class="signature-area">CATT - Conservation Awareness Team Trust</span>
+				</td>
+			</tr>
+		</tbody>
 	</table>
 </body>
 </html>
