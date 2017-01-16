@@ -130,7 +130,7 @@
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<thead>
 			<tr>
-				<th>This is a computer generated receipt. Signature not required.</th>
+				<!-- <th>This is a computer generated receipt. Signature not required.</th> -->
 			</tr>
 		</thead>
 		<tbody>
