@@ -7,7 +7,7 @@
 				<li>Join us as a member</li>
 				<li>Participate in various field &amp; city based conservation activities</li>
 				<li>Help us in reaching out to more people &amp; spreading awareness</li>
-				<li>Donate us to support our activities.</li>
+				<li><a href="./?p=contributionsEntryForm">Donate</a> to support our activities.</li>
 				<li>Buy <a href="./?p=cattmerchandize" >CATT - Merchandise</a></li>
 			</ul>
 			<table>
@@ -61,5 +61,5 @@
 			<p>Please use the above mentioned account details for donation and write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
 
 			<p>For <a href="./?p=cattmerchandize" >CATT - Merchandise</a> and any other queries please write to us at <a href="mailto:reach@catt.org.in">reach@catt.org.in</a></p>
-		</div>		
+		</div>
 	</div>
