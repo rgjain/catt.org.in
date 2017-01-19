@@ -16,10 +16,7 @@
 				<input type="text" name="transref" id="transref" required="true" />
 				<label for="cause">Cause</label>
 				<select name="cause" id="cause" required="true" >
-					<option value="MedicalCamp">Medical Camp</option>
-					<option value="CrowdManagement">Crowd Management</option>
-					<option value="TorchDonationActivity">Torch Donation Activity</option>
-					<option value="GASStoveDonationtoNagarholeTigerReserve">GAS / Stove Donation to Nagarhole Tiger Reserve</option>
+					<option value="SolarPumpDonation">Solar Pump Donation</option>
 				</select>
 				<label for="amount">Donation Date (dd-mm-yyyy)</label>
 				<input type="date" name="date" id="date" required="true" />
