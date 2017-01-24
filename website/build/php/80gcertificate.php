@@ -31,10 +31,7 @@
 			text-transform: capitalize;
 		}
 		.signature-area {
-			border-top: 1px dashed #000;
-			padding: 10px;
-			float: right;
-			margin-top: 80px;
+			border-top: 1px dashed;
 		}
 	</style>
 </head>
@@ -128,15 +125,25 @@
 		</tbody>
 	</table>
 	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<thead>
-			<tr>
-				<!-- <th>This is a computer generated receipt. Signature not required.</th> -->
-			</tr>
-		</thead>
 		<tbody>
 			<tr>
-				<td align="right">
-					<span class="signature-area">CATT - Conservation Awareness Team Trust</span>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td width="40%" align="right">
+					<p class="signature-area"><strong>CATT - Conservation Awareness Team Trust</strong></p>
 				</td>
 			</tr>
 		</tbody>
