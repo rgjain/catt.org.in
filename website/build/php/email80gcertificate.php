@@ -10,7 +10,7 @@
 	$mail_cfg['subject'] = "[CATT.ORG.IN] 80G Certificate [For: " . $name . "]";
 	$mail_cfg['MsgHTML'] = $emailContent;
 	$mail_cfg['addreplyto'] = 'reach@catt.org.in';
-	$mail_cfg['addcc'] = 'reach@catt.org.in';
+	// $mail_cfg['addcc'] = 'reach@catt.org.in';
 	$mail_cfg['stringAttachmentContent'] = $pdf_certContent;
 	$mail_cfg['stringAttachmentFileName'] = $file_location;
 

@@ -22,9 +22,9 @@
 				<input type="date" name="date" id="date" required="true" />
 				<label for="paymentMode">Mode of Payment</label>
 				<select name="paymentMode" id="paymentMode" required="true" >
-					<option value="onlinetransfer">Online Transfer (Net Banking)</option>
-					<option value="cheque">Cheque</option>
-					<option value="dd">DD</option>
+					<option value="Online Transfer">Online Transfer (Net Banking)</option>
+					<option value="Cheque">Cheque</option>
+					<option value="DD">DD</option>
 				</select>
 
 				<button id="submitDonations" name="submitDonations">Submit</button>
