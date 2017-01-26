@@ -22,6 +22,11 @@ $(function(){
 			delay : 6000
 		});
 	}
+    
+    $(".jq-datepicker").datepicker({
+        dateFormat: "dd/mm/yy",
+        maxDate: 0
+    });
 
 	$("#sendMsg").click(function () {
 		var contactusForm = $("#contactus-form"),

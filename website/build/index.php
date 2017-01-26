@@ -56,6 +56,7 @@
 						
 		<title>CATT :: Conservation Awareness Team Trust</title>
 		<link type="text/css" rel="stylesheet" href="assets/styles.css" />
+		<link type="text/css" rel="stylesheet" href="assets/jquery-ui.min.css" />
 		<link rel="stylesheet" type="text/css" href="assets/magnific-popup.css" media="screen" />
 	</head>
 	<body>
@@ -77,7 +78,8 @@
 			include_once 'templates/footer.php';
 		?>
 	</body>
-	<script type="text/javascript" src="assets/jquery-1.8.1.min.js"></script>
+	<script type="text/javascript" src="assets/jquery.js"></script>
+	<script type="text/javascript" src="assets/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="assets/flux.min.js"></script>
 	<script type="text/javascript" src="assets/script.js"></script>
 	<script type="text/javascript" src="assets/jquery.magnific-popup.min.js" ></script>

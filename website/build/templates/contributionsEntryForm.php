@@ -19,7 +19,7 @@
 					<option value="SolarPumpDonation">Solar Pump Donation</option>
 				</select>
 				<label for="amount">Donation Date (dd-mm-yyyy)</label>
-				<input type="date" name="date" id="date" required="true" />
+				<input type="text" name="date" id="date" class="jq-datepicker" required="true" />
 				<label for="paymentMode">Mode of Payment</label>
 				<select name="paymentMode" id="paymentMode" required="true" >
 					<option value="Online Transfer">Online Transfer (Net Banking)</option>
