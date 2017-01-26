@@ -10,7 +10,7 @@
 	font-style: normal;
 }
 body {
-	font-family: "open_sansregular";
+	font-family: "open_sansregular", arial, sans-serif;
 	font-size: 13px;
 	background: #f2f2f2;
 }
@@ -50,6 +50,9 @@ ul li {
 	content: " ";
 	clear: both;
 	height: 0;
+}
+.lead-copy {
+    font-size: 21px;
 }
 .clearfix {
 	display: inline-block;

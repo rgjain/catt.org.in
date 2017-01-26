@@ -3,11 +3,11 @@
 		<div class="content">
 			<p>It is imperative that each and every individual in the neighborhood takes an oath to join hands to preserve our wildlife and come out of the conundrum that we exist in. It may be confusing to realize that the life in the wild is way more organized than the ones we lead where each species supports a dozen more but is now threatened by our reckless expansion.</p>
 			<p>Contribute for this cause as your support is much needed.</p>
+            <p class="lead-copy"><a href="./?p=contributionsEntryForm">Donate</a> to support our activities.</p>
 			<ul>
 				<li>Join us as a member</li>
 				<li>Participate in various field &amp; city based conservation activities</li>
 				<li>Help us in reaching out to more people &amp; spreading awareness</li>
-				<li><a href="./?p=contributionsEntryForm">Donate</a> to support our activities.</li>
 				<li>Buy <a href="./?p=cattmerchandize" >CATT - Merchandise</a></li>
 			</ul>
 			<table>
