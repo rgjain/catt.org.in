@@ -22,9 +22,9 @@ $(function(){
 			delay : 6000
 		});
 	}
-    
+
     $(".jq-datepicker").datepicker({
-        dateFormat: "dd/mm/yy",
+        dateFormat: "dd-M-yy",
         maxDate: 0
     });
 

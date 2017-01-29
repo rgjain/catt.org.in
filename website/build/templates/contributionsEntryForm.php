@@ -18,7 +18,7 @@
 				<select name="cause" id="cause" required="true" >
 					<option value="SolarPumpDonation">Solar Pump Donation</option>
 				</select>
-				<label for="amount">Donation Date (dd-mm-yyyy)</label>
+				<label for="amount">Donation Date (01-Jan-2017)</label>
 				<input type="text" name="date" id="date" class="jq-datepicker" required="true" />
 				<label for="paymentMode">Mode of Payment</label>
 				<select name="paymentMode" id="paymentMode" required="true" >
