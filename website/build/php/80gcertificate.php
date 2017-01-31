@@ -1,5 +1,5 @@
 <?php
-	$regno = "CIT(E)BLR/80G/M-413/ AABTC5858K /ITO(E)-1/Vol 2016-2017";
+	$regno = "CIT(E)BLR/80G/M-413/AABTC5858K/ITO(E)-1/Vol 2016-2017";
 	$pan = "AABTC5858K";
 ?>
 <!DOCTYPE html>
@@ -144,6 +144,21 @@
 				<td>&nbsp;</td>
 				<td width="40%" align="right">
 					<p class="signature-area"><strong>CATT - Conservation Awareness Team Trust</strong></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<table>
+		<tbody>
+			<tr>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td><hr></td>
+			</tr>
+			<tr>
+				<td align="center">
+					We are registered as Charitable Trust under Section 12AA of the Income Tax Act, 1961 vide registration number CIT(E)BLR/80G/M-413/AABTC5858K/ITO(E)-1/Vol 2016-2017 issued by the Commissioner of Income Tax (Excemptions) Bengaluru, and donations made to us are eligible for Tax Exemption u\s 80G(5)(vi).
 				</td>
 			</tr>
 		</tbody>

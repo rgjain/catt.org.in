@@ -28,7 +28,8 @@
 			<td><?php echo $r["cause"]; ?></td>
 			<td><?php echo $r["transref"]; ?></td>
 			<td class="action-btn-cell" >
-				<span class='uppercase'><?php echo $r["status"] . " " . $r["80gcert_number"]; ?></span>
+				<span class='uppercase'><?php echo $r["status"]; ?></span>
+				<a href="assets/80gCert/<?php echo $r["80gcert_number"]; ?>.pdf" target="_blank"><?php echo $r["80gcert_number"]; ?></a>
 				<?php if (empty($r["status"]) || strlen($r["status"]) == 0) { ?>
 					<button class="btn btn-green btn-approve">Approve</button>
 					<button class="btn btn-grey btn-reject">Reject</button>

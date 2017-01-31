@@ -199,7 +199,6 @@ $(function(){
 			var action = "rejected";
 		}
 
-		var question = (isBtnApprove) ? "Are you sure you want to approve this donation ?" : "Are you sure you want to reject this donation ?";
 		var confirmVal = confirm (question);
 
 		if (!confirmVal) return false;
@@ -226,9 +225,9 @@ function doContributionsUpdate (tr, record_id, action) {
 			if (resp == "success") {
 				var trClass = (action == "approved") ? "green" : "red";
 				var actionBtnCell = tr.addClass(trClass).find(".action-btn-cell");
-				alert("There was an error completing your request. Please try later");
-			} else {
 				actionBtnCell.html("<span class='uppercase'>" + action + "</span>");
+			} else {
+				alert("There was an error completing your request. Please try later");
 			}
 		}
 	})
