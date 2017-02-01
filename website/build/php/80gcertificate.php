@@ -1,5 +1,5 @@
 <?php
-	$regno = "CIT(E)BLR/80G/M-413/AABTC5858K/ITO(E)-1/Vol 2016-2017";
+	$regno = "CIT(E)BLR/12A/M-412/AABTC5858K/ITO(E)-1/Vol 2016-17 dt : 20.09.2016.";
 	$pan = "AABTC5858K";
 ?>
 <!DOCTYPE html>
@@ -157,8 +157,8 @@
 				<td><hr></td>
 			</tr>
 			<tr>
-				<td align="center">
-					We are registered as Charitable Trust under Section 12AA of the Income Tax Act, 1961 vide registration number CIT(E)BLR/80G/M-413/AABTC5858K/ITO(E)-1/Vol 2016-2017 issued by the Commissioner of Income Tax (Excemptions) Bengaluru, and donations made to us are eligible for Tax Exemption u\s 80G(5)(vi).
+				<td>
+					Donation are exempted U/s 80G (5) of IT Act 1961 vide approval No. CIT(E)BLR/80G/M-413/AABTC5858K/ITO(E)-1/Vol 2016-17 dt : 21.09.2016.
 				</td>
 			</tr>
 		</tbody>
