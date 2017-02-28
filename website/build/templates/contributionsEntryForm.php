@@ -17,6 +17,7 @@
 				<label for="cause">Cause</label>
 				<select name="cause" id="cause" required="true" >
 					<option value="SolarPumpDonation">Solar Pump Donation</option>
+					<option value="EmergencyFund">Emergency Fund</option>
 				</select>
 				<label for="amount">Donation Date (01-Jan-2017)</label>
 				<input type="text" name="date" id="date" class="jq-datepicker" required="true" />
